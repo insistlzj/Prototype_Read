@@ -1,0 +1,63 @@
+{
+  "date": "2026-10-15",
+  "sources": [
+    {
+      "path": "liveshow-proto/prototype/annotations/user.js",
+      "sha256": "5e26e7c2f1b970bf7408eaf014a9fb3f9088565818ada8b937fdfce1a68a1ff6",
+      "purpose": "业务依据"
+    },
+    {
+      "path": "liveshow-proto/prototype/annotations/guild.js",
+      "sha256": "d72caaa2728e06743a609f11590c4372dcd826cb0ebb8b598d268b987856e911",
+      "purpose": "业务依据"
+    },
+    {
+      "path": "liveshow-proto/prototype/annotations/admin.js",
+      "sha256": "73b868b8119fb46e3525277b55fa6f494a7619fa1274cbfbd0edef4a8e0f2fa8",
+      "purpose": "业务依据"
+    },
+    {
+      "path": "liveshow-proto/context/系统概要 .md",
+      "sha256": "08df18ca852b529d61511403691d8cb3b022bdcf09a531a2a57f701c0915c65b",
+      "purpose": "业务依据"
+    },
+    {
+      "path": "liveshow-proto/context/社交关系规则补充.md",
+      "sha256": "cd0cece9234f2e71e6c1d4aadc5a1a7bf41734c6e1f954b28688682838840ac1",
+      "purpose": "业务依据"
+    },
+    {
+      "path": "liveshow-proto/prototype/index.html",
+      "sha256": "e46c97ba8a00a7afcba85d6b1adc1819662a6394018dfd418055f0ad73e3c615",
+      "purpose": "仅导航映射，不作为业务规则依据"
+    }
+  ],
+  "counts": {
+    "annotation_entries": 254,
+    "view_annotation_entries": 64,
+    "physical_html": 192,
+    "registered_pages": 186,
+    "registered_views": 148,
+    "chains": 25,
+    "branches": 228,
+    "issues": 28,
+    "new_issues": 16,
+    "issue_types": {
+      "口径差异": 2,
+      "来源冲突": 3,
+      "表述冲突": 2,
+      "规则歧义": 6,
+      "规则缺口": 8,
+      "流程承接缺口": 2,
+      "状态分支缺口": 2,
+      "关联影响缺口": 1,
+      "规则定义缺口": 2
+    },
+    "branch_status": {
+      "已明确": 178,
+      "缺少定义": 36,
+      "未核实": 8,
+      "存在冲突": 6
+    }
+  }
+}

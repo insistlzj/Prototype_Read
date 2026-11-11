@@ -1,0 +1,2647 @@
+{
+  "date": "2026-10-16",
+  "scope": "全部192页结构及当前源哈希；旧15项差异与新增5项另列",
+  "pages": [
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/accounts/admin-operation-account-detail.html",
+      "sha256": "db5d6b43eca8b8a2e3b98f461ee7b7a27651d36213fd4a52b00207fa865b582d",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-operation-account-detail.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/accounts/admin-operation-accounts.html",
+      "sha256": "4652600c770ecfb66c3d56406842139795d27af04891bf7af153058acf87c7d7",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-operation-accounts.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/accounts/admin-operation-gift-records.html",
+      "sha256": "2dcc87dad97e7a8957411175c999c128f04f7251009385acdc0bbc88f7b8b4fc",
+      "legacyIssueIds": [
+        "A03"
+      ],
+      "annotations": [
+        "admin/admin-operation-gift-records.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/accounts/admin-operation-guild-controls.html",
+      "sha256": "87d9c2f6e15329d1542e6f512cb0787f3a835a9f8d5315b5d51af4772a6b21bd",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-operation-guild-controls.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/accounts/admin-operation-issue-records.html",
+      "sha256": "043bc69a943c338faec9f2f120f550fc56acb974f2e9c2232b72eb062ce318fa",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-operation-issue-records.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/analytics/admin-consumption-order-detail-report.html",
+      "sha256": "0c1c4690829c9bacdccbd2cc01f689460728508b852440e479b2c2bdec1da051",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-consumption-order-detail-report.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/analytics/admin-daily-statistics.html",
+      "sha256": "4d5e19346d3aeb3d2a0f07eebc7395d44356c10587a8949f355c22f41c6e08d2",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-daily-statistics.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/analytics/admin-data-overview.html",
+      "sha256": "62e86a14d2870b55d785577ef16a062194e4ca69b02d206ecec2f0936b1984f5",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-data-overview.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/analytics/admin-host-live-record-report.html",
+      "sha256": "16b6dd33e19fc73e2ca6a7af43954d1adde8f6071352a2008f664a4d5ceb2299",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-host-live-record-report.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/analytics/admin-host-statistics.html",
+      "sha256": "51caaf7d64118e7150d252a51d0bf3efd58005a071a7491e487badeb16ccc929",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-host-statistics.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/analytics/admin-live-statistics.html",
+      "sha256": "c00a8d786ab97a772d7b6183e928010be1842a283af7b2fef29bc28d83f133a4",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-live-statistics.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/analytics/admin-monthly-gift-sales.html",
+      "sha256": "aca5e6416fce409995771b87694a9603f2346c6514c2e65648b79ef39402d081",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-monthly-gift-sales.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/analytics/admin-monthly-host-earnings.html",
+      "sha256": "6c97a6c304f45768f9771812961f3f8f5d8cd308dd06f91d1156cd8bfa2b3d30",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-monthly-host-earnings.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/analytics/admin-monthly-host-share.html",
+      "sha256": "e4af1c251c2369e0ab8cf3097d61df7543e5b6bd4592448840d15f45a3f631bc",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-monthly-host-share.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/analytics/admin-monthly-income-expense.html",
+      "sha256": "61cf6a67d3b4ff70a05c67cf60fd5b9abbd7cd6ce903fecdbed6d11682c504aa",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-monthly-income-expense.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/analytics/admin-monthly-viewer-consumption.html",
+      "sha256": "4093ce1ef6cc540c36bacd63296f70c2d38b75d1d11e6e49dfff113a0db1a8fe",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-monthly-viewer-consumption.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/analytics/admin-recharge-order-detail-report.html",
+      "sha256": "f6a2c8244c25f9412e8179add285b996050baea502814edd9880aaa69f08f7fe",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-recharge-order-detail-report.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/analytics/admin-recharge-statistics.html",
+      "sha256": "116e1a6cd9ea5b8a35cc0784616b1406756d9e5df3aea06985262c4a228005a5",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-recharge-statistics.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/analytics/admin-refund-order-detail-report.html",
+      "sha256": "8bdef6efd8536d2acd842afcd2b7899437414a56c9f443c3bdd86aa4f6fd1164",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-refund-order-detail-report.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/analytics/admin-report-center.html",
+      "sha256": "4af3f08f9e56ce18497f3a2b307ae7be24b011fd35c601882e6f45f33be7a318",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-report-center.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/analytics/admin-user-active-statistics.html",
+      "sha256": "71c9c07ee6b10e7cf0ddf8ae8fae34be90572a2687df5afa2ba0b8448157b4e9",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-user-active-statistics.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/analytics/admin-user-activity-statistics.html",
+      "sha256": "56c1974815b7fb6a475573fff69da98f0d55221acb6c64573e6164dedb977b72",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-user-activity-statistics.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/content/admin-account-violation.html",
+      "sha256": "048c86a3a69cd96f5171b200cf94462fa781890ab9fd3b00249d453752e8db90",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-account-violation.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/content/admin-content-audit-detail.html",
+      "sha256": "1d41e1a560faaee9890b966778307f7743a702cc49c713d0ccffdc9c22c4e700",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-content-audit-detail.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/content/admin-content-audit.html",
+      "sha256": "e5153a235481ec2cbd4336db681078eb8ad2e2d092176fad1365b891b3f54bb4",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-content-audit.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/content/admin-report-detail.html",
+      "sha256": "45f1d2d92c0c8bb36cc1c0a28971b6cc5fa6bfbb132daff53a00335337d95711",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-report-detail.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/content/admin-report-handling.html",
+      "sha256": "e30ea75b194a86cb444c8a20e11c7dce3c5006a0abe6aae07ebc5638b24e483d",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-report-handling.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/content/admin-violation-type-detail.html",
+      "sha256": "6f553c218b0052de8ce001cd4725d775bafbfdce9ee6c656ab1c8e28894fc8df",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-violation-type-detail.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/content/admin-violation-types.html",
+      "sha256": "0cf733253fa06b985740b37c48eef422a878555810af742459c49da5b746db6b",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-violation-types.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/dashboard/admin-dashboard.html",
+      "sha256": "8512d4da91e26aefd5031193b592ff1b4beec29bd44cdc393b8cc567c568ab79",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-dashboard.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/finance/admin-guild-account-balance.html",
+      "sha256": "8618db074253c91e9af7e79a71b4efae107413e2a3a590cc27531a8b9a761ca7",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-guild-account-balance.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/finance/admin-guild-balance-change-record.html",
+      "sha256": "8491cc6f243686089cc5146d271c6ac7e16a5925dda7bf6612b73d2f1a581849",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-guild-balance-change-record.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/finance/admin-guild-settlement-record-detail.html",
+      "sha256": "547eedf06057f851069fea05a15f80e43678cbab5c423e093d780717a2a4a7ae",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-guild-settlement-record-detail.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/finance/admin-guild-settlement-record.html",
+      "sha256": "6fce46ddc99b9be4938827092bf19d086109134140932b921e69cd941f2d6e0c",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-guild-settlement-record.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/finance/admin-host-account-balance.html",
+      "sha256": "b5ac70e82dacfc5dda965a29a149eda88d2225f3c33b5db5af8c679f2143fcf3",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-host-account-balance.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/finance/admin-host-balance-change-record.html",
+      "sha256": "d3ac9dcd4c2634bf0153bb77b8b967f67c57b1677066489d9befa5094f81ad9b",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-host-balance-change-record.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/finance/admin-settlement-record-detail.html",
+      "sha256": "ca9149ca14cb3beb473026ad1785bac9c7bec0ff9d2dd912d8584aa8ee1ba8ad",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-settlement-record-detail.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/finance/admin-settlement-record.html",
+      "sha256": "8180d81dcdf812bbb016e281f757595e59d38a7328e90f7041b436850c130e46",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-settlement-record.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/gifts/admin-custom-gift.html",
+      "sha256": "0ab525c665cd909af8a7918dd2cf1534b6dd5cd8e7384dec1369b77e76d67150",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-custom-gift.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/gifts/admin-gift-detail.html",
+      "sha256": "d1d7bd9b5b7bac0cbbf161df6b25122f551ca53c892b7847a305e0fbc0fff0ab",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-gift-detail.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/gifts/admin-gift-list.html",
+      "sha256": "0acd4bb6ea827e4f67a26f3a2336d8d21ada3025524d85c3198b31812084af51",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-gift-list.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/gifts/admin-gift-send-count-rule-detail.html",
+      "sha256": "0864919b54b57743c644a94611536615a75fab7ffbc25c398fe6fda25ccd5f84",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-gift-send-count-rule-detail.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/gifts/admin-gift-send-count-rules.html",
+      "sha256": "60e83a3f8a3f933900f2c04399522c457df97870d13fc2557bc7c2032d5a3664",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-gift-send-count-rules.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/gifts/admin-lucky-gift-config.html",
+      "sha256": "6a70e719de015a826ede1dad42dedcc531161fa8f5c2e0a8085dfaca1c3fabf7",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-lucky-gift-config.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/gifts/admin-lucky-gift-detail.html",
+      "sha256": "d11a7aaf86dbafce481a7df1f721d52128a0983c57f4b15270d9acf9ce81011d",
+      "legacyIssueIds": [
+        "A01"
+      ],
+      "annotations": [
+        "admin/admin-lucky-gift-detail.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/gifts/admin-prop-detail.html",
+      "sha256": "94bcefcc33675b66a81f625035bd400af7f3b16be30ebe39ea9e8b17f2fe2c29",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-prop-detail.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/gifts/admin-prop-list.html",
+      "sha256": "8e9efe02cc2362c9a6d9d07df93cf4223995df460e70d20beb9b397d87aee50e",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-prop-list.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/guild/admin-guild-detail.html",
+      "sha256": "586fbb3dd26ee33912b69810d06fda81e00fb1d32abb1be0762c9de900152de9",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-guild-detail.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/guild/admin-guild-list.html",
+      "sha256": "3fc9fe96bdb6b1c6b8c1df96a2c1c49f8ab58cef9c29b512f51914d108d4daab",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-guild-list.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/host/admin-host-detail.html",
+      "sha256": "93304acf4ee9aec904f8fd7d15f1a46be251d8566bb9c0b319eb2a41908c5bbe",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-host-detail.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/host/admin-host-list.html",
+      "sha256": "8cebb0a94578052bd6899581bc534f8c773fb3bbe6f5ce8dcb11ab5bfd1ddc9c",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-host-list.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/host/admin-host-review-detail.html",
+      "sha256": "d0e46e3c1fa116d1938fa50bfd86d61447a4cb2ff136f7ec67cb1389b6bc9953",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-host-review-detail.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/host/admin-host-review.html",
+      "sha256": "4eb241775a9322814f65e15226a148638612739efa2fd5479ae0b652138b0655",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-host-review.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/host/admin-live-detail.html",
+      "sha256": "d9187f9194ec2d123d13683454368efbcd55784ea18d070d3c5126b7b1be6ec5",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-live-detail.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/host/admin-live-management.html",
+      "sha256": "c7652bf695baa428ee4dea7ea3eb2dedc70d5f535135c01eb17cb3627981ad33",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-live-management.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/operations/admin-feature-switch.html",
+      "sha256": "1ac81236e015df5f662e27d1ebd38f8c45b104d125645babe5cf86ef6de5a622",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-feature-switch.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/operations/admin-guild-recommendation-detail.html",
+      "sha256": "7d857e2f40d5b0505b50c8211d5bd2318840bef58e46e4cf0d19aae4813d4fad",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-guild-recommendation-detail.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/operations/admin-guild-recommendation.html",
+      "sha256": "cc7e0c53019fb259ace3d4e0fe760f405a30850dec93b053c937f83d0eefeb49",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-guild-recommendation.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/operations/admin-level-config.html",
+      "sha256": "42daaf16ea366757431fd147875b351cc258d7463c21ab8a0bf82fb51541817e",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-level-config.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/operations/admin-live-type.html",
+      "sha256": "392029b81e9dce80b68cce66fc948cacc8ca69eef147ae5825a6abbe1967a7b1",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-live-type.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/operations/admin-placement-config.html",
+      "sha256": "b980103001553b500e8f27ac6121af797392f3b9c2bd190cc397bbe4ebff8c78",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-placement-config.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/operations/admin-placement-detail.html",
+      "sha256": "0c8a6120fca658572f405e2858f719b85a38084a48331478084c26eb916f5ebe",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-placement-detail.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/operations/admin-push-detail.html",
+      "sha256": "b24de76cefebf7a37e49a2007232e450b278d572e6901074ccbb4148556a5774",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-push-detail.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/operations/admin-push-management.html",
+      "sha256": "688c1e5f65dff13d27801bf93218ea6254cad55b0234aaa5e3939c7ad56ff80a",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-push-management.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/operations/admin-recharge-package-detail.html",
+      "sha256": "1a8945fa579a6aaf2b85cbc3070d42f88afad8f24c8725069713cc3568c22334",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-recharge-package-detail.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/operations/admin-recharge-package.html",
+      "sha256": "d23f53f9a24f92cc2549e6058d2eaeec85bb1b077e6099cb8cecded5334b64f0",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-recharge-package.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/operations/admin-sensitive-words-detail.html",
+      "sha256": "bb1a298b50cd80d54ce544886af2b91666411a5bc9e72c546d7aa3031b0e76ed",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-sensitive-words-detail.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/operations/admin-sensitive-words.html",
+      "sha256": "e86b0df7b25735c32148155e09e72f2fe4d32b452300c0365de4cb254b08b427",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-sensitive-words.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/operations/admin-task-config.html",
+      "sha256": "f6fba27c0af41982e7daab69aa74e9dd0a06b3dc0c39eaca08bc9a23e08a2649",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-task-config.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/operations/admin-task-detail.html",
+      "sha256": "6bed577a718b7b20879b1097a8d7f960cd77860ff7aeffd80a8379ff0996e414",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-task-detail.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/operations/admin-ticket-price-level-detail.html",
+      "sha256": "d084cab3970cf3512564f6ab79bfcb65745b396e40212f9c2230d53398791ef4",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-ticket-price-level-detail.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/operations/admin-ticket-price-level.html",
+      "sha256": "90530695c657c973a9a5cd414940f0cc92c4fddee3156c5f40e86108abe99efb",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-ticket-price-level.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/orders/admin-consumption-order-detail.html",
+      "sha256": "f579d2e519a17e2e4fc7999c89c4ca6be4031af1e3b00eb9d865f92eccfa6777",
+      "legacyIssueIds": [
+        "A02"
+      ],
+      "annotations": [
+        "admin/admin-consumption-order-detail.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/orders/admin-consumption-order.html",
+      "sha256": "d0bb48fd4a839d7fb2bfa15ecaa45eb68e7c6bfeaf4763c305b613553da81111",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-consumption-order.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/orders/admin-recharge-order-detail.html",
+      "sha256": "bd9384da9852485ce84246fbafa38f33b83e98f076aecc747d5405c43230a3ea",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-recharge-order-detail.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/orders/admin-recharge-order.html",
+      "sha256": "c1fb60a42420ff59e42fb3eb53bda99de81b70ebec9962879c27c91617924000",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-recharge-order.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/orders/admin-refund-order.html",
+      "sha256": "19e07a973f874576cf9ddf36e41cfc5b7349fe0e4c478242eef56ac528791a56",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-refund-order.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/system/admin-system-account-detail.html",
+      "sha256": "71370e5470dbb4cb2d59612e72d3764e2abff138e1de18596b50971cff9b3ae3",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-system-account-detail.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/system/admin-system-account.html",
+      "sha256": "81d9a7bda7f761c4d516b301728d2bc43e7738bbea2aea3c8feab3989ddf76f7",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-system-account.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/system/admin-system-audit-detail.html",
+      "sha256": "bf45b187ec4fecbaace41dec3b6f4cb3b9b5ba60d6690f675729544029805141",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-system-audit-detail.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/system/admin-system-audit.html",
+      "sha256": "e550600b0dee8afb9851aa31740d86b8ad78fc474b9ce584fa81f34fa55e56cd",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-system-audit.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/system/admin-system-parameter-detail.html",
+      "sha256": "ccf8e5c376c995bc4c8cf79361fe1f4cb62e52d93f6a38781f7391e70d01815f",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-system-parameter-detail.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/system/admin-system-parameter.html",
+      "sha256": "48a78f6bbc81d3826d03457dd5bc68c4c920d4a0173da803aa2d5e69fa7e3568",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-system-parameter.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/system/admin-system-permission.html",
+      "sha256": "47b4bd4804463ae7ac68ecd0571754ce095ecda27247b94c4b32709bcceee9b6",
+      "legacyIssueIds": [],
+      "annotations": [],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/system/admin-system-role-detail.html",
+      "sha256": "1a98aea19d0b543951b68496356c48d64e4a87c20772ed1f309b54bd11e25964",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-system-role-detail.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/system/admin-system-role.html",
+      "sha256": "8c8f09fccbe0cdd1b96532804964afce43e126b24ddd9b3259fbbdb299cd910a",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-system-role.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/user/admin-user-detail.html",
+      "sha256": "aa09c6822b1cb8ed0f50d6b3740bc72a64bdc8eb966ac604701c74572b15185c",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-user-detail.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/user/admin-user-list.html",
+      "sha256": "03341caba148da97a603df9b4b2bf971b56192685d634542fee935c7af71b33c",
+      "legacyIssueIds": [],
+      "annotations": [
+        "admin/admin-user-list.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/guild/approval/guild-join-review-detail.html",
+      "sha256": "b58c9dbaa2edffb5c74b295b65dc326854524d924569bae13003ce3f1e6b5aa3",
+      "legacyIssueIds": [],
+      "annotations": [
+        "guild/guild-join-review-detail.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/guild/approval/guild-join-review.html",
+      "sha256": "4f62bd107ae961c96e3dc6b100f9219fcbbaa68dbf5622ac128e6fda125f8efa",
+      "legacyIssueIds": [],
+      "annotations": [
+        "guild/guild-join-review.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/guild/approval/guild-leave-review-detail.html",
+      "sha256": "6283282edecd5b4fe44516463070d5e31446c30404677a17118e0aaaecb10c93",
+      "legacyIssueIds": [
+        "A14"
+      ],
+      "annotations": [
+        "guild/guild-leave-review-detail.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/guild/approval/guild-leave-review.html",
+      "sha256": "c625e00e179062e556fe9ee53c6b8ddd5884581b9361a2127d22e53d5edd1bb9",
+      "legacyIssueIds": [],
+      "annotations": [
+        "guild/guild-leave-review.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/guild/auth/guild-login.html",
+      "sha256": "87cfafc8525b71a9bf720a06b6bfdda1eeca4836c0514eb7a2947059bf2880cb",
+      "legacyIssueIds": [],
+      "annotations": [
+        "guild/guild-login.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/guild/auth/guild-switch.html",
+      "sha256": "f551e39216ccfbb84923f3024b5b8078cacf0ad4db6ee9f6fda63ed20aea8cbd",
+      "legacyIssueIds": [],
+      "annotations": [
+        "guild/guild-switch.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/guild/data/guild-all-violations.html",
+      "sha256": "6a65bf869575a6ac237268c8a1c1b931315916af1918579122655df07a71eac4",
+      "legacyIssueIds": [],
+      "annotations": [
+        "guild/guild-all-violations.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/guild/data/guild-host-data.html",
+      "sha256": "30cb3398b79d301b91d20159a22c7e52a4c2f63afe7dafac21ac32a27ed3683d",
+      "legacyIssueIds": [
+        "A10"
+      ],
+      "annotations": [
+        "guild/guild-host-data.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/guild/data/guild-host-summary.html",
+      "sha256": "4cd8205aa9e5049f29434038a2fc0c249cb8ee16482e9b92fa069847721fd856",
+      "legacyIssueIds": [
+        "A11"
+      ],
+      "annotations": [
+        "guild/guild-host-summary.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/guild/data/guild-income-day-detail.html",
+      "sha256": "70773f7454a66242836a8eeeecc5a6baac6c96f92bba3793ad71cc69c82c00c6",
+      "legacyIssueIds": [],
+      "annotations": [
+        "guild/guild-income-day-detail.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/guild/data/guild-income.html",
+      "sha256": "89c058de24602f1cccc16a8a441ebf5dccc7946f54c116c2aec2a2b9233db62a",
+      "legacyIssueIds": [
+        "A13"
+      ],
+      "annotations": [
+        "guild/guild-income.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/guild/data/guild-live-gift-detail.html",
+      "sha256": "c6dabdd4483079e4c36b391580480d0cd0c2a8a7b32d9cb824c1ab55b2466aee",
+      "legacyIssueIds": [],
+      "annotations": [
+        "guild/guild-live-gift-detail.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/guild/data/guild-violation-host-select.html",
+      "sha256": "eeea5150290ee144617abd091a88c9a6562085bd1400bcb8b1b490f473838ec2",
+      "legacyIssueIds": [],
+      "annotations": [
+        "guild/guild-violation-host-select.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/guild/home/guild-home.html",
+      "sha256": "f8ad02407c44881641fa57564f2a9c57a363c46536fefa1d5782082437c22791",
+      "legacyIssueIds": [],
+      "annotations": [
+        "guild/guild-home.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/guild/home/guild-notification-detail.html",
+      "sha256": "d5b0d7fdb6d6cf8ab2110062070f7d1885d729cb12c373158b06fb4b9fe340e1",
+      "legacyIssueIds": [],
+      "annotations": [
+        "guild/guild-notification-detail.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/guild/home/guild-notifications.html",
+      "sha256": "b0931cfdb0fe02fd273e87de53d161af70fc44fb1d58d23135b5ce45a4fc27dd",
+      "legacyIssueIds": [],
+      "annotations": [
+        "guild/guild-notifications.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/guild/management/guild-password.html",
+      "sha256": "2da9cfd319a1a5a7c0852b25a8f75deea15a8b35fa2da53a43efff0315ab89b3",
+      "legacyIssueIds": [],
+      "annotations": [
+        "guild/guild-password.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/guild/management/guild-profile.html",
+      "sha256": "a3bb84075246927dfc5ed0bfd2b6f7679ecd84b938d21d313553a703966162dd",
+      "legacyIssueIds": [],
+      "annotations": [
+        "guild/guild-profile.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/guild/management/guild-settings.html",
+      "sha256": "a2c53b0d2b348024489f5d0b0e44325e06bcd2effa753804c73ff88c5c0e465a",
+      "legacyIssueIds": [],
+      "annotations": [
+        "guild/guild-settings.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/guild/operations/guild-host-select.html",
+      "sha256": "244d3b1050058e59480d071abf469200b96e97a5d0003a7a927e2d8d58b366b5",
+      "legacyIssueIds": [],
+      "annotations": [
+        "guild/guild-host-select.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/guild/operations/guild-message-compose.html",
+      "sha256": "f5e4e473bae1e1e298f25aa2d678835e61d9d581667bb44b4d01f0eef06b7d15",
+      "legacyIssueIds": [],
+      "annotations": [
+        "guild/guild-message-compose.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/guild/operations/guild-message-detail.html",
+      "sha256": "1e86844a3927e1678b69be0ab41d6e5346ee9605a38d45c27d5d7b194d77d227",
+      "legacyIssueIds": [],
+      "annotations": [
+        "guild/guild-message-detail.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/guild/operations/guild-messages.html",
+      "sha256": "edb125cd087d23a483b350020b507430c0c291799c1bc7c533e1f0293198a0e2",
+      "legacyIssueIds": [],
+      "annotations": [
+        "guild/guild-messages.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/guild/operations/guild-operation-account-compose.html",
+      "sha256": "96f45c81f936b1c1419ceb0bdba8276dff9409bce7ee5dc381a3407d25081d9d",
+      "legacyIssueIds": [],
+      "annotations": [
+        "guild/guild-operation-account-compose.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/guild/operations/guild-operation-account-detail.html",
+      "sha256": "41481a59dd033dd88801e41b37507e7c0fb271ef6adc1c9e0a999a311532277d",
+      "legacyIssueIds": [],
+      "annotations": [
+        "guild/guild-operation-account-detail.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/guild/operations/guild-operation-account-select.html",
+      "sha256": "805669bbf906a0853520be1312c9bb47b1bf0e36a3b7d4c97ede53255d1114ef",
+      "legacyIssueIds": [],
+      "annotations": [
+        "guild/guild-operation-account-select.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/guild/operations/guild-operation-accounts.html",
+      "sha256": "c311bae5e9a1aa48546baf47b7321ac4241a351e6202137162856fd1c6c3b7b3",
+      "legacyIssueIds": [],
+      "annotations": [
+        "guild/guild-operation-accounts.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/guild/operations/guild-operation-gift-records.html",
+      "sha256": "bd60d716b24a1ccb13a698e8deaadaeb9cdade44c2a6e1937436febb215734c2",
+      "legacyIssueIds": [
+        "A04"
+      ],
+      "annotations": [
+        "guild/guild-operation-gift-records.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/guild/people/guild-host-detail.html",
+      "sha256": "f3e2ef6508587d577908c725c9b7480f361a123a5926e7a9eabe42e3cb000bb3",
+      "legacyIssueIds": [
+        "A15"
+      ],
+      "annotations": [
+        "guild/guild-host-detail.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/guild/people/guild-host-list.html",
+      "sha256": "9d21261a357af843e84870e9b3c68ca958425bf9a1d19acd2a3dd4f4456bc15d",
+      "legacyIssueIds": [
+        "A12"
+      ],
+      "annotations": [
+        "guild/guild-host-list.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/guild/people/guild-member-list.html",
+      "sha256": "756f0ab52c7c0a6663afbd7de4e9e0ec1ef6d153ddfa65cfba65110c2ec1e2b3",
+      "legacyIssueIds": [],
+      "annotations": [
+        "guild/guild-member-list.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/auth/auth-country-select.html",
+      "sha256": "133cfb9ef405b6629857cf20a4bf8c7c3121181602e80212d963d5c94a43c5f1",
+      "legacyIssueIds": [],
+      "annotations": [
+        "user/auth-country-select.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/auth/auth-email-login.html",
+      "sha256": "79815ba6324384bd578e479164460fd565114e9d6cd72ce0bb1c9a5cfc997acd",
+      "legacyIssueIds": [],
+      "annotations": [
+        "user/auth-email-login.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/auth/auth-login-register.html",
+      "sha256": "88fdf21bac687e498edb3bc6601bbed6ad647ce585248ba2b1b73e68af350aa6",
+      "legacyIssueIds": [],
+      "annotations": [
+        "user/auth-login-register.html",
+        "user/views/auth-login-register/deletion-cooling.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/auth/auth-phone-login.html",
+      "sha256": "8732173a70563e30cd5a3f4778d5349ee60c0f4f3479eedc6573fbb89a052080",
+      "legacyIssueIds": [],
+      "annotations": [
+        "user/auth-phone-login.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/auth/auth-profile-completion.html",
+      "sha256": "bb27182d2c001ff5d447a92e1b71dc3a5188e1b2307fdba4063c819c8d5043a5",
+      "legacyIssueIds": [],
+      "annotations": [
+        "user/auth-profile-completion.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/fan-club/fan-contribution-ranking.html",
+      "sha256": "95b23f594fe07778b890c1f0e71cbac3339c086bdf331a12a2ccc61e44bf8b88",
+      "legacyIssueIds": [],
+      "annotations": [
+        "user/fan-contribution-ranking.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/fan-club/my-fan-clubs.html",
+      "sha256": "9d56d1ffd7e958dd6de204f3ebf155f0b35c32c006a65a45cde84a9c1d35bbbf",
+      "legacyIssueIds": [],
+      "annotations": [
+        "user/my-fan-clubs.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/guild/guild-application-form.html",
+      "sha256": "184d85333f7520bcd8c2c11c05b9cd61848a849c4ba85cdf322491f808df07e1",
+      "legacyIssueIds": [],
+      "annotations": [
+        "user/guild-application-form.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/guild/guild-application-records.html",
+      "sha256": "c70b3a5df4e6992e86a13a8f8a6ac9c907af5c2d61a62a33e410d016017e51f7",
+      "legacyIssueIds": [],
+      "annotations": [
+        "user/guild-application-records.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/guild/guild-detail.html",
+      "sha256": "5210fbf7904883211ca935742dfef3a2923c98aedda4d4ce6b52459e122191b3",
+      "legacyIssueIds": [],
+      "annotations": [
+        "user/guild-detail.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/guild/guild-leave-application.html",
+      "sha256": "9b4befd8956db0bdf2073b52bbf3364ffd7a5d4dd1a3f6fc77b1a0b2ab848a72",
+      "legacyIssueIds": [],
+      "annotations": [
+        "user/guild-leave-application.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/guild/guild-management.html",
+      "sha256": "b589abda905ce7ab95e940ad34f93df3b730ebfef56c2818e40eca2d4fb841bb",
+      "legacyIssueIds": [],
+      "annotations": [
+        "user/guild-management.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/home/all-tasks.html",
+      "sha256": "de73888d3e8dc4041472b039ce5bc2b12fcf058b191435509228464e9306ee63",
+      "legacyIssueIds": [],
+      "annotations": [
+        "user/all-tasks.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/home/contribution-ranking.html",
+      "sha256": "c4c6ef06eb19edf1ead65e53cd589813361b32368844bcecec97d9993edf5e54",
+      "legacyIssueIds": [],
+      "annotations": [
+        "user/contribution-ranking.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/home/host-ranking.html",
+      "sha256": "17955e98a113bd7b9d930f9a364e5ad7518cf37f3341328222257d151b0c17e4",
+      "legacyIssueIds": [],
+      "annotations": [
+        "user/host-ranking.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/home/invite-friends.html",
+      "sha256": "e75b57a26d6d780c2157181130f129518c69df54a5d332d3ee4e8a2524053463",
+      "legacyIssueIds": [],
+      "annotations": [
+        "user/invite-friends.html",
+        "user/views/invite-friends/share-options.html",
+        "user/views/invite-friends/poster-preview.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/home/live-plaza.html",
+      "sha256": "f2606a5fac8da6aaf7228764ba026a1b3bd61ae7c5947c9c797b3a801382629f",
+      "legacyIssueIds": [],
+      "annotations": [
+        "user/live-plaza.html",
+        "user/views/live-plaza/notification-intro.html",
+        "user/views/live-plaza/notification-permission.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/home/search-results.html",
+      "sha256": "18305edf518728fb57b22b557425f46eb337febb56f94012949fe5fc0d02adca",
+      "legacyIssueIds": [],
+      "annotations": [
+        "user/search-results.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/home/search.html",
+      "sha256": "7d6e902174bb5b66d28a6e664ea4e087f8d688b3024a4f393a03a5d4e180b0fe",
+      "legacyIssueIds": [],
+      "annotations": [
+        "user/search.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/home/welfare-center.html",
+      "sha256": "e696de49fcb939ddba7d902b6d8457101d765c1699e5f1c5fbc1af11af4dffc8",
+      "legacyIssueIds": [],
+      "annotations": [
+        "user/welfare-center.html",
+        "user/views/welfare-center/claimed.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/host/fan-club-settings.html",
+      "sha256": "4c22c3b5ee96565ff84b2076e86d10faaa61b3af39e94ef71e58f676d8e6983b",
+      "legacyIssueIds": [
+        "A08"
+      ],
+      "annotations": [
+        "user/fan-club-settings.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/host/fan-club.html",
+      "sha256": "148883e11f6186517f23daac547824777e23052b854fc2b2677ec81228120d88",
+      "legacyIssueIds": [],
+      "annotations": [
+        "user/fan-club.html",
+        "user/views/fan-club/member-mute-confirm.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/host/fan-list.html",
+      "sha256": "6a9629fd4d93cd552fea90e62b1eaa6df4480831a2c4eda15fcaed89f3392839",
+      "legacyIssueIds": [],
+      "annotations": [
+        "user/fan-list.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/host/host-center-pending.html",
+      "sha256": "a8c7baf61c41bc19192aa93363c5fcac2cc4af77a60bab87cff0925ec148fb68",
+      "legacyIssueIds": [],
+      "annotations": [
+        "user/host-center-pending.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/host/host-center.html",
+      "sha256": "7ab7044c2037f963a1f17826ca8d6f9c5fa82cf957adffff6aa3f43a5830a4ab",
+      "legacyIssueIds": [],
+      "annotations": [
+        "user/host-center.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/host/host-guild-notifications.html",
+      "sha256": "189b15381949c5a17c786493d0ca880040f91d23fe7bba963d4dd75fe3924634",
+      "legacyIssueIds": [],
+      "annotations": [
+        "user/host-guild-notifications.html"
+      ],
+      "runtime": "仅消息中心与公会通知页本轮打开；其他页面未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/host/live-data.html",
+      "sha256": "bac131d874dafeb513bab5f71472b7381b965a6726acf9973811802f02624923",
+      "legacyIssueIds": [],
+      "annotations": [
+        "user/live-data.html",
+        "user/views/live-data/month.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/host/live-records.html",
+      "sha256": "39d42689b5bd41bc44cebbc24f1df00fd6a69e612090ab84a999c7943826745e",
+      "legacyIssueIds": [],
+      "annotations": [
+        "user/live-records.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/host/live-session-detail.html",
+      "sha256": "3233875b5f3ed098f9b6093383239cda377a60f8292a31fba3481285f9ce1ff5",
+      "legacyIssueIds": [],
+      "annotations": [
+        "user/live-session-detail.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/host/moderator-management.html",
+      "sha256": "63673ceda0e1240b858cfed9820ff0e088072c392ab0b312024a4b516079446b",
+      "legacyIssueIds": [],
+      "annotations": [
+        "user/moderator-management.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/host/moderator-search-results.html",
+      "sha256": "939c0445fb213cb8205cbf93164482cac752d41194f01f2c5e0085d4905467a4",
+      "legacyIssueIds": [],
+      "annotations": [
+        "user/moderator-search-results.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/host/moderator-search.html",
+      "sha256": "7d70b7760898a913e678ddab41b826a4fd26ff1ddb21181e51a4010c452ff777",
+      "legacyIssueIds": [],
+      "annotations": [
+        "user/moderator-search.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/host/start-live-settings.html",
+      "sha256": "813495b38530e436a57c8bc19f20b2849acb72e1acde035affd322bdf67feeac",
+      "legacyIssueIds": [],
+      "annotations": [
+        "user/start-live-settings.html",
+        "user/views/start-live-settings/category.html",
+        "user/views/start-live-settings/room-normal.html",
+        "user/views/start-live-settings/room-ticket.html",
+        "user/views/start-live-settings/room-password.html",
+        "user/views/start-live-settings/beauty.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/live/live-end-host.html",
+      "sha256": "b67988c3c48e64855d9b1c8c86211b16be57b49eb318d206e770a0c0bd43bcf9",
+      "legacyIssueIds": [],
+      "annotations": [
+        "user/live-end-host.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/live/live-end-viewer.html",
+      "sha256": "b96e1ff6a67f03429a07d6119c220cd5519ee252beac503fdc30190890333e21",
+      "legacyIssueIds": [],
+      "annotations": [
+        "user/live-end-viewer.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/live/live-room-cohost-active.html",
+      "sha256": "dfae8c8fa54e95ef82b1416d3f66ab51fc9aba113c4913660c4fff3337c6e41b",
+      "legacyIssueIds": [],
+      "annotations": [
+        "user/live-room-cohost-active.html",
+        "user/views/live-room-cohost-active/more-actions.html",
+        "user/views/live-room-cohost-active/cohost-exit-confirm.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/live/live-room-host-password.html",
+      "sha256": "d1d1f2beb05a1619e2cc7cf281011030b54e109246071a6b079afd88e837330b",
+      "legacyIssueIds": [],
+      "annotations": [
+        "user/live-room-host-password.html",
+        "user/views/live-room-host-password/more-actions.html",
+        "user/views/live-room-host-password/room-password.html",
+        "user/views/live-room-host-password/access-scope.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/live/live-room-host.html",
+      "sha256": "9cd99396d4761f140301fa89034b080fe22fa28c89c984104a330f37fb08351e",
+      "legacyIssueIds": [],
+      "annotations": [
+        "user/live-room-host.html",
+        "user/views/live-room-host/contribution-rank.html",
+        "user/views/live-room-host/audience-viewers.html",
+        "user/views/live-room-host/muted-users.html",
+        "user/views/live-room-host/restore-speaking-confirm.html",
+        "user/views/live-room-host/profile-host.html",
+        "user/views/live-room-host/thank-message.html",
+        "user/views/live-room-host/focus-viewers.html",
+        "user/views/live-room-host/cohost-hosts.html",
+        "user/views/live-room-host/cohost-hosts-search-result.html",
+        "user/views/live-room-host/cohost-invite-notice.html",
+        "user/views/live-room-host/share-recipient.html",
+        "user/views/live-room-host/more-actions.html",
+        "user/views/live-room-host/end-confirm.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/live/live-room-report.html",
+      "sha256": "acd6e155380f447ed1f555075f5cbffe39cb8bc9447d99dce51c8fe9ac7b5c20",
+      "legacyIssueIds": [],
+      "annotations": [
+        "user/live-room-report.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/live/live-room-user-report.html",
+      "sha256": "ce14a608aba100f51e3e63d90a469442d3d847ff7d6ddc70d7864929ab32740e",
+      "legacyIssueIds": [],
+      "annotations": [
+        "user/live-room-user-report.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/live/live-room.html",
+      "sha256": "287b499c64986246680e200e3ca9e4c645c8591194639318dddea728dbc6076d",
+      "legacyIssueIds": [],
+      "annotations": [
+        "user/live-room.html",
+        "user/views/live-room/gift.html",
+        "user/views/live-room/gift-recharge.html",
+        "user/views/live-room/fan-club-not-joined.html",
+        "user/views/live-room/fan-club-joined.html",
+        "user/views/live-room/comment-muted.html",
+        "user/views/live-room/password-room-restricted.html",
+        "user/views/live-room/ticket-room-restricted.html",
+        "user/views/live-room/fan-club-room-restricted.html",
+        "user/views/live-room/blocked-room-restricted.html",
+        "user/views/live-room/audience-online.html",
+        "user/views/live-room/audience-managers.html",
+        "user/views/live-room/profile-viewer.html",
+        "user/views/live-room/profile-moderator.html",
+        "user/views/live-room/profile-moderator-mute.html",
+        "user/views/live-room/profile-moderator-remove.html",
+        "user/views/live-room/contribution-rank.html",
+        "user/views/live-room/contribution-gifts.html",
+        "user/views/live-room/more-actions.html",
+        "user/views/live-room/share-recipient.html",
+        "user/views/live-room/host-profile.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/profile/account-password-change.html",
+      "sha256": "8a4b60396a09f6a52877c10ed7807e314b5181be50d5f34361d3ed8a9573f2d0",
+      "legacyIssueIds": [
+        "A06"
+      ],
+      "annotations": [
+        "user/account-password-change.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/profile/account-password-reset.html",
+      "sha256": "3f81a2fdec7f9c285bf5b720c167d0773b019cd9c984715fc5b1dd60b12bff30",
+      "legacyIssueIds": [
+        "A07"
+      ],
+      "annotations": [
+        "user/account-password-reset.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/profile/account-password-set.html",
+      "sha256": "964eaf25b275f7b0cf861f408824ebdb55244661a705873490b98dbbbe20c7f7",
+      "legacyIssueIds": [
+        "A05"
+      ],
+      "annotations": [
+        "user/account-password-set.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/profile/blacklist-management.html",
+      "sha256": "93a47a1b9d85c9d5b90cce4c664efcaadc5bb415e1bb3dc46f2d1559315f312b",
+      "legacyIssueIds": [],
+      "annotations": [
+        "user/blacklist-management.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/profile/customer-service.html",
+      "sha256": "f152367f900424dc6fa743ad6916e000915357f57f1df5a1d07dfd668562e3e0",
+      "legacyIssueIds": [],
+      "annotations": [
+        "user/customer-service.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/profile/my-decoration.html",
+      "sha256": "9817220126fd60cb3f4621703a42f3b15c99e5cc7dfe50de341020b7084b39da",
+      "legacyIssueIds": [],
+      "annotations": [
+        "user/my-decoration.html",
+        "user/views/my-decoration/store.html",
+        "user/views/my-decoration/purchase-confirm.html",
+        "user/views/my-decoration/insufficient.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/profile/my-following.html",
+      "sha256": "2a59217d890a830f2a3375d6de62ce99e20c0aa09b4c4143fe6f952894832602",
+      "legacyIssueIds": [],
+      "annotations": [
+        "user/my-following.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/profile/my-outfits.html",
+      "sha256": "09b0241053afdad64a5fa508297b3f1e0a045522b71940b3aaf10556d491207c",
+      "legacyIssueIds": [],
+      "annotations": [],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/profile/profile-edit.html",
+      "sha256": "691c5fe76c1a6c4dd071b5c34486c3cfdfaf5be8277ccc5af11e6f0978cf5291",
+      "legacyIssueIds": [
+        "A09"
+      ],
+      "annotations": [
+        "user/profile-edit.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/profile/profile.html",
+      "sha256": "1fa6ebd96c39d3cac9e4f55b82e2d724564505ad1f2bcb6ea0a7b44777023bc0",
+      "legacyIssueIds": [],
+      "annotations": [
+        "user/profile.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/profile/settings.html",
+      "sha256": "324709118cd67f29b927b3f14a4b89cf5799a84c9ee9c99c10a2e6f9a110ffde",
+      "legacyIssueIds": [],
+      "annotations": [
+        "user/settings.html",
+        "user/views/settings/password-not-set.html",
+        "user/views/settings/notification-default.html",
+        "user/views/settings/notification-denied.html",
+        "user/views/settings/notification-granted.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/social/chat-settings.html",
+      "sha256": "05374befeb2abdb78390e8b0ce6be690940338a19043c74566b2afe1629d974c",
+      "legacyIssueIds": [],
+      "annotations": [
+        "user/chat-settings.html",
+        "user/views/chat-settings/block-confirm.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/social/direct-message.html",
+      "sha256": "ef5b8b2cdd9e37a9a5d06246834c8e7df2b4f37a38439557ff73b8e25363872b",
+      "legacyIssueIds": [],
+      "annotations": [
+        "user/direct-message.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/social/fan-group-chat.html",
+      "sha256": "b4d0cc14407f9aaa521985e5f482bb383848af7285ee96fe9cf5d085b8c2e8a5",
+      "legacyIssueIds": [],
+      "annotations": [
+        "user/fan-group-chat.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/social/follower-list.html",
+      "sha256": "2ebbb0da377a873db8c1dde9391b65cc63e641bb171795c8b464ba13dec4f169",
+      "legacyIssueIds": [],
+      "annotations": [
+        "user/follower-list.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/social/friend-list.html",
+      "sha256": "e9f86fdd69d33957f91f85663c4050ca06accb532e7429693173f2a8bd7c7a1b",
+      "legacyIssueIds": [],
+      "annotations": [
+        "user/friend-list.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/social/group-manage-member.html",
+      "sha256": "04eb4978666c24135884c0ff654782e46b2c04e213e1a6de83ccb9f2f1c75e11",
+      "legacyIssueIds": [],
+      "annotations": [
+        "user/group-manage-member.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/social/group-manage-owner.html",
+      "sha256": "c9749dbe090a2e763d47be03f9e1e2aecf024313381d683a6a3787ae3425ab4b",
+      "legacyIssueIds": [],
+      "annotations": [
+        "user/group-manage-owner.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/social/host-gift-gallery.html",
+      "sha256": "d85f3fc423dedb11de241b527f962c65f86053535c0269565c1bbe5a6a41c546",
+      "legacyIssueIds": [],
+      "annotations": [
+        "user/host-gift-gallery.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/social/host-home.html",
+      "sha256": "b29c19e9ef0c2624cc259ffdf5db16d1a03cef835f743e43a258266ae4534c74",
+      "legacyIssueIds": [],
+      "annotations": [
+        "user/host-home.html",
+        "user/views/host-home/block-confirm.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/social/interaction-notifications.html",
+      "sha256": "1cbdd65d73a2e15b37a1e899d1efb89ee24d0a42193c9566fc64a297ad8a994a",
+      "legacyIssueIds": [],
+      "annotations": [
+        "user/interaction-notifications.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/social/live-notifications.html",
+      "sha256": "bb6642ccbd07467479da3f403747d44ce6874109d54b1a59bb0732ead6d6c82c",
+      "legacyIssueIds": [],
+      "annotations": [
+        "user/live-notifications.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/social/message-center.html",
+      "sha256": "370bdb6376cbd12d3c5d39fddd5757718cd3b7d97abfbfcf3fbba0b06bfe8d47",
+      "legacyIssueIds": [],
+      "annotations": [
+        "user/message-center.html",
+        "user/views/message-center/fan-group.html"
+      ],
+      "runtime": "仅消息中心与公会通知页本轮打开；其他页面未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/social/system-notifications.html",
+      "sha256": "aa61d712aae249413ef9a4311d3e2a9be7186505f0d5a2e5d4a93eddb789d58b",
+      "legacyIssueIds": [],
+      "annotations": [
+        "user/system-notifications.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/social/user-home.html",
+      "sha256": "b94cf0d0fe0974d30289c5325609d508ed52b5762d014ac65b80d23a45963895",
+      "legacyIssueIds": [],
+      "annotations": [
+        "user/user-home.html",
+        "user/views/user-home/friend.html",
+        "user/views/user-home/blocked.html",
+        "user/views/user-home/block-confirm.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/wallet/balance-detail.html",
+      "sha256": "3818b7226267b4e13ef78efc45354f03944bfada3d67581fccad7ad4acf4d27f",
+      "legacyIssueIds": [],
+      "annotations": [
+        "user/balance-detail.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/wallet/order-expense-detail.html",
+      "sha256": "e4aba234e5d5bebba5b4f7abc95b260407b79f24dbc25d6a4364676f54cb493a",
+      "legacyIssueIds": [],
+      "annotations": [
+        "user/order-expense-detail.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/wallet/order-income-detail.html",
+      "sha256": "11075af85e18048966768507074e3c2f47e45f5919672242af7564e3dd9c25c7",
+      "legacyIssueIds": [],
+      "annotations": [
+        "user/order-income-detail.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/wallet/prop-order-detail.html",
+      "sha256": "4611d00e47826c58c0dc83e8d7377327a251f53e70f69ccbb53d88631e99e4e9",
+      "legacyIssueIds": [],
+      "annotations": [
+        "user/prop-order-detail.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/wallet/recharge.html",
+      "sha256": "bb6bae40f0200b007c4f8684db6085f84110175c483b1e3ae649d6bcbde4ca4a",
+      "legacyIssueIds": [],
+      "annotations": [
+        "user/recharge.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/wallet/reward-detail.html",
+      "sha256": "73684535e9fa63959b41997ca62fdad8f67685e8688a0d99297eeedc2e7b1ddc",
+      "legacyIssueIds": [],
+      "annotations": [
+        "user/reward-detail.html"
+      ],
+      "runtime": "未运行"
+    },
+    {
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/wallet/ticket-order-detail.html",
+      "sha256": "b4754dd49e295f4c853d02ef6522707a4be2672a8794df2a071ab14602dc8928",
+      "legacyIssueIds": [],
+      "annotations": [
+        "user/ticket-order-detail.html"
+      ],
+      "runtime": "未运行"
+    }
+  ],
+  "issues": [
+    {
+      "id": "A01",
+      "namespace": "PAGE",
+      "legacyId": "A01",
+      "title": "后台·幸运礼物编辑",
+      "status": "仍成立",
+      "change": "保留",
+      "conclusion": "当前RTP计算用单价=单次消耗×开奖次数作分母，但批注公式分母为单次消耗；次数>1时静态公式不符。",
+      "remaining": "当前RTP计算用单价=单次消耗×开奖次数作分母，但批注公式分母为单次消耗；次数>1时静态公式不符。",
+      "evidence": [
+        {
+          "path": "liveshow-proto/prototype/annotations/admin.js",
+          "line": 137,
+          "quote": "1. 送出与返奖分别留扣减、增加两条流水，最终余额按礼物价值－实际返还变化；净消耗为负时余额增加。",
+          "source_line": "    { t: '业务', d: ['1. 送出与返奖分别留扣减、增加两条流水，最终余额按礼物价值－实际返还变化；净消耗为负时余额增加。','2. 主播收益使用送出时已生效的全局比例，返奖不影响收益。','3. 概率合计非 100% 或 RTP 未验证不得生效；同笔开奖使用送出时已生效的奖档、概率及 RTP，后续修改只影响新送出。'] },",
+          "page": "http://127.0.0.1:8765/index.html?read=admin-lucky-gift-detail#page=pages%2Fadmin%2Fgifts%2Fadmin-lucky-gift-detail.html",
+          "view": "",
+          "key": "admin-lucky-gift-detail.html",
+          "end": "admin",
+          "verification": "当前完整批注条目与关联页核对"
+        },
+        {
+          "path": "liveshow-proto/prototype/pages/admin/gifts/admin-lucky-gift-detail.html",
+          "line": 308,
+          "quote": "const cost = unitPrice(config)",
+          "source_line": "        const cost = unitPrice(config);",
+          "verification": "当前文件原文核对"
+        }
+      ],
+      "historicalRecord": {
+        "id": "A01",
+        "title": "后台·幸运礼物编辑",
+        "evidence": []
+      },
+      "historicalArchive": "/Users/geekonup/Live_Read/流程梳理/历史快照/2026-10-16T16-00-08-全量更新前",
+      "verification": "当前HTML与共享脚本静态分析；本轮未重现旧报告的运行数值",
+      "requirementsApproved": false,
+      "page": "http://127.0.0.1:8765/index.html?read=admin-lucky-gift-detail#page=pages%2Fadmin%2Fgifts%2Fadmin-lucky-gift-detail.html",
+      "pagePath": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/gifts/admin-lucky-gift-detail.html"
+    },
+    {
+      "id": "A02",
+      "namespace": "PAGE",
+      "legacyId": "A02",
+      "title": "后台·消费订单详情",
+      "status": "关闭",
+      "change": "关闭",
+      "conclusion": "当前消费订单详情批注只要求消费类型、数量、消费金币及主播信息；旧报告要求返奖、净消耗、主播收益、公会等全部字段没有同页现行依据，撤销原“缺字段”结论。报表字段要求另按报表核对。",
+      "remaining": "",
+      "evidence": [
+        {
+          "path": "liveshow-proto/prototype/annotations/admin.js",
+          "line": 314,
+          "quote": "1. 幸运礼物送出前仅按礼物价值校验余额，全部开奖后确定订单净消费；钱包分别记送出扣减和返奖增加。余额不足或条件失败不开奖、不生成成功订单。",
+          "source_line": "    { t: '业务', d: ['1. 幸运礼物送出前仅按礼物价值校验余额，全部开奖后确定订单净消费；钱包分别记送出扣减和返奖增加。余额不足或条件失败不开奖、不生成成功订单。','2. 消费订单不支持退款，充值退款也不撤销已完成消费。'] },",
+          "page": "http://127.0.0.1:8765/index.html?read=admin-consumption-order-detail#page=pages%2Fadmin%2Forders%2Fadmin-consumption-order-detail.html",
+          "view": "",
+          "key": "admin-consumption-order-detail.html",
+          "end": "admin",
+          "verification": "当前完整批注条目与关联页核对"
+        },
+        {
+          "path": "liveshow-proto/prototype/pages/admin/orders/admin-consumption-order-detail.html",
+          "line": 117,
+          "quote": "消费金币",
+          "source_line": "            <span>消费金币</span><b>${format.coins(order.coins)}</b>",
+          "verification": "当前文件原文核对"
+        }
+      ],
+      "historicalRecord": {
+        "id": "A02",
+        "title": "后台·消费订单详情",
+        "evidence": []
+      },
+      "historicalArchive": "/Users/geekonup/Live_Read/流程梳理/历史快照/2026-10-16T16-00-08-全量更新前",
+      "verification": "当前HTML与共享脚本静态分析；本轮未重现旧报告的运行数值",
+      "requirementsApproved": false,
+      "page": "http://127.0.0.1:8765/index.html?read=admin-consumption-order-detail#page=pages%2Fadmin%2Forders%2Fadmin-consumption-order-detail.html%3Fid%3DCS20260805002716",
+      "pagePath": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/orders/admin-consumption-order-detail.html"
+    },
+    {
+      "id": "A03",
+      "namespace": "PAGE",
+      "legacyId": "A03",
+      "title": "后台·运营账号送礼记录",
+      "status": "关闭",
+      "change": "关闭",
+      "conclusion": "共享operation-accounts.js已不含幸运礼物，原Bima相关示例改为普通／定制礼物，旧非法示例不成立。",
+      "remaining": "",
+      "evidence": [
+        {
+          "path": "liveshow-proto/prototype/annotations/admin.js",
+          "line": 486,
+          "quote": "1. 虚拟金币仅可用于赠送普通礼物和定制礼物，不能赠送幸运礼物，不能购买装扮、门票或用于其他消费。",
+          "source_line": "    { t: '业务', d: ['1. 虚拟金币仅可用于赠送普通礼物和定制礼物，不能赠送幸运礼物，不能购买装扮、门票或用于其他消费。','2. 运营账号贡献值始终为 0，不进入任何榜单或排行；虚拟送礼仅计入公屏消息和礼物效果，不计入真实消费、主播收益或分成。'] },",
+          "page": "http://127.0.0.1:8765/index.html?read=admin-operation-gift-records#page=pages%2Fadmin%2Faccounts%2Fadmin-operation-gift-records.html",
+          "view": "",
+          "key": "admin-operation-gift-records.html",
+          "end": "admin",
+          "verification": "当前完整批注条目与关联页核对"
+        },
+        {
+          "path": "liveshow-proto/prototype/assets/operation-accounts.js",
+          "line": 40,
+          "quote": "id: 'OG26082401'",
+          "source_line": "    { id: 'OG26082401', accountId: 'OP260006', occurredAt: '2026-08-24 22:02', giftName: '音乐皇冠', unitPrice: 2000, quantity: 6, giftType: '定制礼物', hostName: 'Maya', hostId: 'H102945' },",
+          "verification": "当前文件原文核对"
+        }
+      ],
+      "historicalRecord": {
+        "id": "A03",
+        "title": "后台·运营账号送礼记录",
+        "evidence": []
+      },
+      "historicalArchive": "/Users/geekonup/Live_Read/流程梳理/历史快照/2026-10-16T16-00-08-全量更新前",
+      "verification": "当前HTML与共享脚本静态分析；本轮未重现旧报告的运行数值",
+      "requirementsApproved": false,
+      "page": "http://127.0.0.1:8765/index.html?read=admin-operation-gift-records#page=pages%2Fadmin%2Faccounts%2Fadmin-operation-gift-records.html",
+      "pagePath": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/accounts/admin-operation-gift-records.html"
+    },
+    {
+      "id": "A04",
+      "namespace": "PAGE",
+      "legacyId": "A04",
+      "title": "公会·运营账号送礼记录",
+      "status": "关闭",
+      "change": "关闭",
+      "conclusion": "公会与后台复用的运营送礼数据已只含普通／定制礼物，关闭旧示例不符项。",
+      "remaining": "",
+      "evidence": [
+        {
+          "path": "liveshow-proto/prototype/annotations/guild.js",
+          "line": 172,
+          "quote": "1. 虚拟金币仅可用于赠送普通礼物和定制礼物，不能赠送幸运礼物，不能购买装扮、门票或用于其他消费；虚拟金币送礼不计入主播收益或分成。",
+          "source_line": "      { t: \"业务规则\", d: [\"1. 虚拟金币仅可用于赠送普通礼物和定制礼物，不能赠送幸运礼物，不能购买装扮、门票或用于其他消费；虚拟金币送礼不计入主播收益或分成。\"] },",
+          "page": "http://127.0.0.1:8765/index.html?read=guild-operation-gift-records#page=pages%2Fguild%2Foperations%2Fguild-operation-gift-records.html",
+          "view": "",
+          "key": "guild-operation-gift-records.html",
+          "end": "guild",
+          "verification": "当前完整批注条目与关联页核对"
+        },
+        {
+          "path": "liveshow-proto/prototype/assets/operation-accounts.js",
+          "line": 40,
+          "quote": "id: 'OG26082401'",
+          "source_line": "    { id: 'OG26082401', accountId: 'OP260006', occurredAt: '2026-08-24 22:02', giftName: '音乐皇冠', unitPrice: 2000, quantity: 6, giftType: '定制礼物', hostName: 'Maya', hostId: 'H102945' },",
+          "verification": "当前文件原文核对"
+        }
+      ],
+      "historicalRecord": {
+        "id": "A04",
+        "title": "公会·运营账号送礼记录",
+        "evidence": []
+      },
+      "historicalArchive": "/Users/geekonup/Live_Read/流程梳理/历史快照/2026-10-16T16-00-08-全量更新前",
+      "verification": "当前HTML与共享脚本静态分析；本轮未重现旧报告的运行数值",
+      "requirementsApproved": false,
+      "page": "http://127.0.0.1:8765/index.html?read=guild-operation-gift-records#page=pages%2Fguild%2Foperations%2Fguild-operation-gift-records.html",
+      "pagePath": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/guild/operations/guild-operation-gift-records.html"
+    },
+    {
+      "id": "A05",
+      "namespace": "PAGE",
+      "legacyId": "A05",
+      "title": "用户·设置密码",
+      "status": "仍成立",
+      "change": "保留",
+      "conclusion": "设置密码仍仅按验证码长度6及密码至少8位启用按钮，缺数字、上限和至少两类字符的本地校验。",
+      "remaining": "设置密码仍仅按验证码长度6及密码至少8位启用按钮，缺数字、上限和至少两类字符的本地校验。",
+      "evidence": [
+        {
+          "path": "liveshow-proto/prototype/annotations/user.js",
+          "line": 2557,
+          "quote": "1. 设置密码前必须完成当前账号的手机号或邮箱验证。",
+          "source_line": "        \"1. 设置密码前必须完成当前账号的手机号或邮箱验证。\",",
+          "page": "http://127.0.0.1:8765/index.html?read=account-password-set#page=pages%2Fuser%2Fprofile%2Faccount-password-set.html",
+          "view": "",
+          "key": "account-password-set.html",
+          "end": "user",
+          "verification": "当前完整批注条目与关联页核对"
+        },
+        {
+          "path": "liveshow-proto/prototype/pages/user/profile/account-password-set.html",
+          "line": 30,
+          "quote": "function sync()",
+          "source_line": "      function sync(){submit.disabled=code.value.length!==6||password.value.length<8||confirmPassword.value.length<8}form.addEventListener('input',sync);",
+          "verification": "当前文件原文核对"
+        }
+      ],
+      "historicalRecord": {
+        "id": "A05",
+        "title": "用户·设置密码",
+        "evidence": []
+      },
+      "historicalArchive": "/Users/geekonup/Live_Read/流程梳理/历史快照/2026-10-16T16-00-08-全量更新前",
+      "verification": "当前HTML与共享脚本静态分析；本轮未重现旧报告的运行数值",
+      "requirementsApproved": false,
+      "page": "http://127.0.0.1:8765/index.html?read=account-password-set#page=pages%2Fuser%2Fprofile%2Faccount-password-set.html",
+      "pagePath": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/profile/account-password-set.html"
+    },
+    {
+      "id": "A06",
+      "namespace": "PAGE",
+      "legacyId": "A06",
+      "title": "用户·修改密码",
+      "status": "仍成立",
+      "change": "保留",
+      "conclusion": "修改密码仍以最少8位及一致性校验为主，缺当前批注规定的8—20位和两类字符校验。",
+      "remaining": "修改密码仍以最少8位及一致性校验为主，缺当前批注规定的8—20位和两类字符校验。",
+      "evidence": [
+        {
+          "path": "liveshow-proto/prototype/annotations/user.js",
+          "line": 2580,
+          "quote": "1. 当前密码验证失败时不修改密码。",
+          "source_line": "        \"1. 当前密码验证失败时不修改密码。\",",
+          "page": "http://127.0.0.1:8765/index.html?read=account-password-change#page=pages%2Fuser%2Fprofile%2Faccount-password-change.html",
+          "view": "",
+          "key": "account-password-change.html",
+          "end": "user",
+          "verification": "当前完整批注条目与关联页核对"
+        },
+        {
+          "path": "liveshow-proto/prototype/pages/user/profile/account-password-change.html",
+          "line": 26,
+          "quote": "function sync()",
+          "source_line": "      function sync(){submit.disabled=currentPassword.value.length<8||password.value.length<8||confirmPassword.value.length<8}form.addEventListener('input',sync);",
+          "verification": "当前文件原文核对"
+        }
+      ],
+      "historicalRecord": {
+        "id": "A06",
+        "title": "用户·修改密码",
+        "evidence": []
+      },
+      "historicalArchive": "/Users/geekonup/Live_Read/流程梳理/历史快照/2026-10-16T16-00-08-全量更新前",
+      "verification": "当前HTML与共享脚本静态分析；本轮未重现旧报告的运行数值",
+      "requirementsApproved": false,
+      "page": "http://127.0.0.1:8765/index.html?read=account-password-change#page=pages%2Fuser%2Fprofile%2Faccount-password-change.html",
+      "pagePath": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/profile/account-password-change.html"
+    },
+    {
+      "id": "A07",
+      "namespace": "PAGE",
+      "legacyId": "A07",
+      "title": "用户·忘记密码",
+      "status": "仍成立",
+      "change": "保留",
+      "conclusion": "重置密码仍只按验证码长度和至少8位校验；验证码数字与密码复杂度／上限未落地。",
+      "remaining": "重置密码仍只按验证码长度和至少8位校验；验证码数字与密码复杂度／上限未落地。",
+      "evidence": [
+        {
+          "path": "liveshow-proto/prototype/annotations/user.js",
+          "line": 2605,
+          "quote": "1. 重置密码前必须完成当前账号的手机号或邮箱验证。",
+          "source_line": "        \"1. 重置密码前必须完成当前账号的手机号或邮箱验证。\",",
+          "page": "http://127.0.0.1:8765/index.html?read=account-password-reset#page=pages%2Fuser%2Fprofile%2Faccount-password-reset.html",
+          "view": "",
+          "key": "account-password-reset.html",
+          "end": "user",
+          "verification": "当前完整批注条目与关联页核对"
+        },
+        {
+          "path": "liveshow-proto/prototype/pages/user/profile/account-password-reset.html",
+          "line": 30,
+          "quote": "function sync()",
+          "source_line": "      function sync(){submit.disabled=code.value.length!==6||password.value.length<8||confirmPassword.value.length<8}form.addEventListener('input',sync);",
+          "verification": "当前文件原文核对"
+        }
+      ],
+      "historicalRecord": {
+        "id": "A07",
+        "title": "用户·忘记密码",
+        "evidence": []
+      },
+      "historicalArchive": "/Users/geekonup/Live_Read/流程梳理/历史快照/2026-10-16T16-00-08-全量更新前",
+      "verification": "当前HTML与共享脚本静态分析；本轮未重现旧报告的运行数值",
+      "requirementsApproved": false,
+      "page": "http://127.0.0.1:8765/index.html?read=account-password-reset#page=pages%2Fuser%2Fprofile%2Faccount-password-reset.html",
+      "pagePath": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/profile/account-password-reset.html"
+    },
+    {
+      "id": "A08",
+      "namespace": "PAGE",
+      "legacyId": "A08",
+      "title": "用户·粉丝团设置",
+      "status": "仍成立",
+      "change": "保留",
+      "conclusion": "粉丝团贡献阈值只校验Number>=0，未校验非负整数；输入step=1未被按钮保存逻辑采用。",
+      "remaining": "粉丝团贡献阈值只校验Number>=0，未校验非负整数；输入step=1未被按钮保存逻辑采用。",
+      "evidence": [
+        {
+          "path": "liveshow-proto/prototype/annotations/user.js",
+          "line": 1954,
+          "quote": "1. 仅粉丝团所属主播可修改；保存后的加入条件只用于后续加入校验，不移除已在团成员。新成员提交加入时重新读取最新条件及已确认的历史送礼和购票贡献，尚未完成的消费不计。",
+          "source_line": "          \"1. 仅粉丝团所属主播可修改；保存后的加入条件只用于后续加入校验，不移除已在团成员。新成员提交加入时重新读取最新条件及已确认的历史送礼和购票贡献，尚未完成的消费不计。\",",
+          "page": "http://127.0.0.1:8765/index.html?read=fan-club-settings#page=pages%2Fuser%2Fhost%2Ffan-club-settings.html",
+          "view": "",
+          "key": "fan-club-settings.html",
+          "end": "user",
+          "verification": "当前完整批注条目与关联页核对"
+        },
+        {
+          "path": "liveshow-proto/prototype/pages/user/host/fan-club-settings.html",
+          "line": 185,
+          "quote": "Number(contribution.value) >= 0",
+          "source_line": "          Number(contribution.value) >= 0;",
+          "verification": "当前文件原文核对"
+        }
+      ],
+      "historicalRecord": {
+        "id": "A08",
+        "title": "用户·粉丝团设置",
+        "evidence": []
+      },
+      "historicalArchive": "/Users/geekonup/Live_Read/流程梳理/历史快照/2026-10-16T16-00-08-全量更新前",
+      "verification": "当前HTML与共享脚本静态分析；本轮未重现旧报告的运行数值",
+      "requirementsApproved": false,
+      "page": "http://127.0.0.1:8765/index.html?read=fan-club-settings#page=pages%2Fuser%2Fhost%2Ffan-club-settings.html",
+      "pagePath": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/host/fan-club-settings.html"
+    },
+    {
+      "id": "A09",
+      "namespace": "PAGE",
+      "legacyId": "A09",
+      "title": "用户·资料编辑",
+      "status": "仍成立",
+      "change": "保留",
+      "conclusion": "生日input无max，提交直接写入生日；当前不得晚于今日规则未在本地校验。",
+      "remaining": "生日input无max，提交直接写入生日；当前不得晚于今日规则未在本地校验。",
+      "evidence": [
+        {
+          "path": "liveshow-proto/prototype/annotations/user.js",
+          "line": 2459,
+          "quote": "头像、昵称与其他资料分别保存；合规审核通过后生效，不通过时保留原头像或昵称，其他已保存资料不回滚。网络异常先查询各字段实际保存结果，仅重试未成功字段；账号被封禁、进入注销冷静期或最终删除后才返回的审核结果不保存，旧版本结果不得覆盖新提交的资料。",
+          "source_line": "          \"头像、昵称与其他资料分别保存；合规审核通过后生效，不通过时保留原头像或昵称，其他已保存资料不回滚。网络异常先查询各字段实际保存结果，仅重试未成功字段；账号被封禁、进入注销冷静期或最终删除后才返回的审核结果不保存，旧版本结果不得覆盖新提交的资料。\"",
+          "page": "http://127.0.0.1:8765/index.html?read=profile-edit#page=pages%2Fuser%2Fprofile%2Fprofile-edit.html",
+          "view": "",
+          "key": "profile-edit.html",
+          "end": "user",
+          "verification": "当前完整批注条目与关联页核对"
+        },
+        {
+          "path": "liveshow-proto/prototype/pages/user/profile/profile-edit.html",
+          "line": 311,
+          "quote": "profileMock.birthday = birthday.value",
+          "source_line": "        profileMock.birthday = birthday.value;",
+          "verification": "当前文件原文核对"
+        }
+      ],
+      "historicalRecord": {
+        "id": "A09",
+        "title": "用户·资料编辑",
+        "evidence": []
+      },
+      "historicalArchive": "/Users/geekonup/Live_Read/流程梳理/历史快照/2026-10-16T16-00-08-全量更新前",
+      "verification": "当前HTML与共享脚本静态分析；本轮未重现旧报告的运行数值",
+      "requirementsApproved": false,
+      "page": "http://127.0.0.1:8765/index.html?read=profile-edit#page=pages%2Fuser%2Fprofile%2Fprofile-edit.html",
+      "pagePath": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/profile/profile-edit.html"
+    },
+    {
+      "id": "A10",
+      "namespace": "PAGE",
+      "legacyId": "A10",
+      "title": "公会·直播记录",
+      "status": "仍成立",
+      "change": "保留",
+      "conclusion": "公会直播记录开播人数仍固定20，未按所选主播和日期去重；这是已知待补齐。",
+      "remaining": "公会直播记录开播人数仍固定20，未按所选主播和日期去重；这是已知待补齐。",
+      "evidence": [
+        {
+          "path": "liveshow-proto/prototype/annotations/guild.js",
+          "line": 207,
+          "quote": "1. 每次开播创建一个新场次；场次结束后消息、消费、处置和收益记录继续保留。",
+          "source_line": "      { t: \"业务规则\", d: [\"1. 每次开播创建一个新场次；场次结束后消息、消费、处置和收益记录继续保留。\"] },",
+          "page": "http://127.0.0.1:8765/index.html?read=guild-host-data#page=pages%2Fguild%2Fdata%2Fguild-host-data.html",
+          "view": "",
+          "key": "guild-host-data.html",
+          "end": "guild",
+          "verification": "当前完整批注条目与关联页核对"
+        },
+        {
+          "path": "liveshow-proto/prototype/pages/guild/data/guild-host-data.html",
+          "line": 470,
+          "quote": "metric(\"开播人数\", \"20\")",
+          "source_line": "        metric(\"开播人数\", \"20\"),",
+          "verification": "当前文件原文核对"
+        }
+      ],
+      "historicalRecord": {
+        "id": "A10",
+        "title": "公会·直播记录",
+        "evidence": []
+      },
+      "historicalArchive": "/Users/geekonup/Live_Read/流程梳理/历史快照/2026-10-16T16-00-08-全量更新前",
+      "verification": "当前HTML与共享脚本静态分析；本轮未重现旧报告的运行数值",
+      "requirementsApproved": false,
+      "page": "http://127.0.0.1:8765/index.html?read=guild-host-data#page=pages%2Fguild%2Fdata%2Fguild-host-data.html",
+      "pagePath": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/guild/data/guild-host-data.html"
+    },
+    {
+      "id": "A11",
+      "namespace": "PAGE",
+      "legacyId": "A11",
+      "title": "公会·主播数据",
+      "status": "关闭",
+      "change": "关闭",
+      "conclusion": "现行新增粉丝已定义为净增且允许负数，Mock负数不再违反当前要求；旧“不能为负”的审查结论撤销。",
+      "remaining": "",
+      "evidence": [
+        {
+          "path": "liveshow-proto/prototype/annotations/guild.js",
+          "line": 96,
+          "quote": "1. 仅统计主播在当前公会关系有效期间产生的数据；主播转会前或转入其他公会后的数据不展示。",
+          "source_line": "      { t: \"业务规则\", d: [\"1. 仅统计主播在当前公会关系有效期间产生的数据；主播转会前或转入其他公会后的数据不展示。\",\"2. 有效天不跨公会合并。\"] },",
+          "page": "http://127.0.0.1:8765/index.html?read=guild-host-summary#page=pages%2Fguild%2Fdata%2Fguild-host-summary.html",
+          "view": "",
+          "key": "guild-host-summary.html",
+          "end": "guild",
+          "verification": "当前完整批注条目与关联页核对"
+        },
+        {
+          "path": "liveshow-proto/prototype/assets/guild-data-model.js",
+          "line": 149,
+          "quote": "fans: started ?",
+          "source_line": "        fans: started ? (seed % 11 === 0 ? -Math.round((8 + seed % 24) * ratio) : Math.round((28 + seed % 64) * ratio)) : 0,",
+          "verification": "当前文件原文核对"
+        }
+      ],
+      "historicalRecord": {
+        "id": "A11",
+        "title": "公会·主播数据",
+        "evidence": []
+      },
+      "historicalArchive": "/Users/geekonup/Live_Read/流程梳理/历史快照/2026-10-16T16-00-08-全量更新前",
+      "verification": "当前HTML与共享脚本静态分析；本轮未重现旧报告的运行数值",
+      "requirementsApproved": false,
+      "page": "http://127.0.0.1:8765/index.html?read=guild-host-summary#page=pages%2Fguild%2Fdata%2Fguild-host-summary.html",
+      "pagePath": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/guild/data/guild-host-summary.html"
+    },
+    {
+      "id": "A12",
+      "namespace": "PAGE",
+      "legacyId": "A12",
+      "title": "公会·主播业绩",
+      "status": "仍成立",
+      "change": "保留",
+      "conclusion": "主播业绩列表仍直接用item.income，getGuildDay对无数据日期有回退，筛选收益未完整联动；旧示例日期／金额不当成本轮运行结果。",
+      "remaining": "主播业绩列表仍直接用item.income，getGuildDay对无数据日期有回退，筛选收益未完整联动；旧示例日期／金额不当成本轮运行结果。",
+      "evidence": [
+        {
+          "path": "liveshow-proto/prototype/annotations/guild.js",
+          "line": 86,
+          "quote": "1. 有效天按主播自然日累计直播时长达到 3 小时计 1 天。",
+          "source_line": "      { t: \"业务规则\", d: [\"1. 有效天按主播自然日累计直播时长达到 3 小时计 1 天。\",\"2. 已退会主播保留历史业绩并显示【退会】；统计以直播发生时的公会关系为准。\"] },",
+          "page": "http://127.0.0.1:8765/index.html?read=guild-host-list#page=pages%2Fguild%2Fpeople%2Fguild-host-list.html",
+          "view": "",
+          "key": "guild-host-list.html",
+          "end": "guild",
+          "verification": "当前完整批注条目与关联页核对"
+        },
+        {
+          "path": "liveshow-proto/prototype/pages/guild/people/guild-host-list.html",
+          "line": 664,
+          "quote": "item.income",
+          "source_line": "                const income = String(item.income || \"-\").replace(/^\\$/, \"\");",
+          "verification": "当前文件原文核对"
+        }
+      ],
+      "historicalRecord": {
+        "id": "A12",
+        "title": "公会·主播业绩",
+        "evidence": []
+      },
+      "historicalArchive": "/Users/geekonup/Live_Read/流程梳理/历史快照/2026-10-16T16-00-08-全量更新前",
+      "verification": "当前HTML与共享脚本静态分析；本轮未重现旧报告的运行数值",
+      "requirementsApproved": false,
+      "page": "http://127.0.0.1:8765/index.html?read=guild-host-list#page=pages%2Fguild%2Fpeople%2Fguild-host-list.html",
+      "pagePath": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/guild/people/guild-host-list.html"
+    },
+    {
+      "id": "A13",
+      "namespace": "PAGE",
+      "legacyId": "A13",
+      "title": "公会·公会业绩",
+      "status": "仍成立",
+      "change": "保留",
+      "conclusion": "公会业绩跨日startedHosts仍逐日求和，跨月也累加，不能证明按主播ID去重；保留已知实现差异。",
+      "remaining": "公会业绩跨日startedHosts仍逐日求和，跨月也累加，不能证明按主播ID去重；保留已知实现差异。",
+      "evidence": [
+        {
+          "path": "liveshow-proto/prototype/annotations/guild.js",
+          "line": 238,
+          "quote": "跨日或跨月的开播人数应按主播去重；当前 Mock 以每日人数最大值代替。",
+          "source_line": "      { t: \"原型待补齐\", d: [\"跨日或跨月的开播人数应按主播去重；当前 Mock 以每日人数最大值代替。\"] }",
+          "page": "http://127.0.0.1:8765/index.html?read=guild-income#page=pages%2Fguild%2Fdata%2Fguild-income.html",
+          "view": "",
+          "key": "guild-income.html",
+          "end": "guild",
+          "verification": "当前完整批注条目与关联页核对"
+        },
+        {
+          "path": "liveshow-proto/prototype/pages/guild/data/guild-income.html",
+          "line": 560,
+          "quote": "startedHosts: selectedDays.reduce",
+          "source_line": "        startedHosts: selectedDays.reduce(",
+          "verification": "当前文件原文核对"
+        }
+      ],
+      "historicalRecord": {
+        "id": "A13",
+        "title": "公会·公会业绩",
+        "evidence": []
+      },
+      "historicalArchive": "/Users/geekonup/Live_Read/流程梳理/历史快照/2026-10-16T16-00-08-全量更新前",
+      "verification": "当前HTML与共享脚本静态分析；本轮未重现旧报告的运行数值",
+      "requirementsApproved": false,
+      "page": "http://127.0.0.1:8765/index.html?read=guild-income#page=pages%2Fguild%2Fdata%2Fguild-income.html",
+      "pagePath": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/guild/data/guild-income.html"
+    },
+    {
+      "id": "A14",
+      "namespace": "PAGE",
+      "legacyId": "A14",
+      "title": "公会·退会申请详情",
+      "status": "仍成立",
+      "change": "保留",
+      "conclusion": "退会通过按钮仍直接handleReview(approved)，没有通过前二次确认；制作规范允许后台Toast不免除已明确的同页确认。",
+      "remaining": "退会通过按钮仍直接handleReview(approved)，没有通过前二次确认；制作规范允许后台Toast不免除已明确的同页确认。",
+      "evidence": [
+        {
+          "path": "liveshow-proto/prototype/annotations/guild.js",
+          "line": 67,
+          "quote": "1. 通过 -> 立即结束当前直播、解除公会关系并失去主播身份。",
+          "source_line": "      { t: \"业务规则\", d: [\"1. 通过 -> 立即结束当前直播、解除公会关系并失去主播身份。\",\"2. 驳回 -> 保留主播身份和公会关系；主播可重新申请。\",\"3. 待审核时公会先移除该主播 -> 退会申请已失效，不再允许审核；关系为已退出。\"] },",
+          "page": "http://127.0.0.1:8765/index.html?read=guild-leave-review-detail#page=pages%2Fguild%2Fapproval%2Fguild-leave-review-detail.html",
+          "view": "",
+          "key": "guild-leave-review-detail.html",
+          "end": "guild",
+          "verification": "当前完整批注条目与关联页核对"
+        },
+        {
+          "path": "liveshow-proto/prototype/pages/guild/approval/guild-leave-review-detail.html",
+          "line": 154,
+          "quote": "handleReview(\"approved\")",
+          "source_line": "          ?.addEventListener(\"click\", () => handleReview(\"approved\"));",
+          "verification": "当前文件原文核对"
+        }
+      ],
+      "historicalRecord": {
+        "id": "A14",
+        "title": "公会·退会申请详情",
+        "evidence": []
+      },
+      "historicalArchive": "/Users/geekonup/Live_Read/流程梳理/历史快照/2026-10-16T16-00-08-全量更新前",
+      "verification": "当前HTML与共享脚本静态分析；本轮未重现旧报告的运行数值",
+      "requirementsApproved": false,
+      "page": "http://127.0.0.1:8765/index.html?read=guild-leave-review-detail#page=pages%2Fguild%2Fapproval%2Fguild-leave-review-detail.html",
+      "pagePath": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/guild/approval/guild-leave-review-detail.html"
+    },
+    {
+      "id": "A15",
+      "namespace": "PAGE",
+      "legacyId": "A15",
+      "title": "公会·主播主页",
+      "status": "仍成立",
+      "change": "保留",
+      "conclusion": "公会主播主页粉丝数取getSummary().fans，该函数加总各日净增，不能代表当前仍关注总人数。",
+      "remaining": "公会主播主页粉丝数取getSummary().fans，该函数加总各日净增，不能代表当前仍关注总人数。",
+      "evidence": [
+        {
+          "path": "liveshow-proto/prototype/annotations/guild.js",
+          "line": 109,
+          "quote": "粉丝数应取当前关注人数；当前 Mock 使用周期涨粉汇总，数据来源需校正。",
+          "source_line": "      { t: \"待确认\", d: [\"粉丝数应取当前关注人数；当前 Mock 使用周期涨粉汇总，数据来源需校正。\"] },",
+          "page": "http://127.0.0.1:8765/index.html?read=guild-host-detail#page=pages%2Fguild%2Fpeople%2Fguild-host-detail.html",
+          "view": "",
+          "key": "guild-host-detail.html",
+          "end": "guild",
+          "verification": "当前完整批注条目与关联页核对"
+        },
+        {
+          "path": "liveshow-proto/prototype/pages/guild/people/guild-host-detail.html",
+          "line": 281,
+          "quote": "LUMA_FORMAT.integer(totals.fans)",
+          "source_line": "          [\"粉丝数\", LUMA_FORMAT.integer(totals.fans)],",
+          "verification": "当前文件原文核对"
+        }
+      ],
+      "historicalRecord": {
+        "id": "A15",
+        "title": "公会·主播主页",
+        "evidence": []
+      },
+      "historicalArchive": "/Users/geekonup/Live_Read/流程梳理/历史快照/2026-10-16T16-00-08-全量更新前",
+      "verification": "当前HTML与共享脚本静态分析；本轮未重现旧报告的运行数值",
+      "requirementsApproved": false,
+      "page": "http://127.0.0.1:8765/index.html?read=guild-host-detail#page=pages%2Fguild%2Fpeople%2Fguild-host-detail.html",
+      "pagePath": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/guild/people/guild-host-detail.html"
+    },
+    {
+      "id": "N20261016-01",
+      "namespace": "NEW",
+      "legacyId": null,
+      "title": "主页私信未带当前对象标识",
+      "type": "静态实现差异",
+      "status": "新增：静态差异",
+      "change": "新增",
+      "conclusion": "user-home与host-home的私信跳转未带peer；单聊缺省选sari，非Sari对象可能错会话。",
+      "remaining": "user-home与host-home的私信跳转未带peer；单聊缺省选sari，非Sari对象可能错会话。",
+      "evidence": [
+        {
+          "path": "liveshow-proto/prototype/annotations/user.js",
+          "line": 1014,
+          "quote": "按所选联系人展示单聊；从消息页返回时更新最后文字消息与时间，其他入口返回原页面；从未成为好友且已发送 3 条后继续发送 -> 不生成消息并提示“最多发送三条”；曾为好友但已解除、好友申请处理中或存在拉黑关系 -> 文字、图片和语音均不可发送；发送失败 -> 显示失败图标并保留消息内容，点击失败图标重试。",
+          "source_line": "          \"按所选联系人展示单聊；从消息页返回时更新最后文字消息与时间，其他入口返回原页面；从未成为好友且已发送 3 条后继续发送 -> 不生成消息并提示“最多发送三条”；曾为好友但已解除、好友申请处理中或存在拉黑关系 -> 文字、图片和语音均不可发送；发送失败 -> 显示失败图标并保留消息内容，点击失败图标重试。\"",
+          "page": "http://127.0.0.1:8765/index.html?read=direct-message#page=pages%2Fuser%2Fsocial%2Fdirect-message.html",
+          "view": "",
+          "key": "direct-message.html",
+          "end": "user",
+          "verification": "当前完整批注条目与关联页核对"
+        },
+        {
+          "path": "liveshow-proto/prototype/pages/user/social/user-home.html",
+          "line": 520,
+          "quote": "location.href = \"direct-message.html\"",
+          "source_line": "        location.href = \"direct-message.html\";",
+          "verification": "当前文件原文核对"
+        },
+        {
+          "path": "liveshow-proto/prototype/pages/user/social/host-home.html",
+          "line": 856,
+          "quote": "location.href = \"direct-message.html\"",
+          "source_line": "        location.href = \"direct-message.html\";",
+          "verification": "当前文件原文核对"
+        },
+        {
+          "path": "liveshow-proto/prototype/pages/user/social/direct-message.html",
+          "line": 200,
+          "quote": "get(\"peer\") || \"sari\"",
+          "source_line": "      const peerKey = new URLSearchParams(location.search).get(\"peer\") || \"sari\";",
+          "verification": "当前文件原文核对"
+        }
+      ],
+      "chains": [
+        "L21"
+      ],
+      "requirementsApproved": false,
+      "verification": "当前源文件核对；04另在消息中心观察到示例文案"
+    },
+    {
+      "id": "N20261016-02",
+      "namespace": "NEW",
+      "legacyId": null,
+      "title": "图片语音绕过非好友三条额度",
+      "type": "静态实现差异",
+      "status": "新增：静态差异",
+      "change": "新增",
+      "conclusion": "文字与表情检查sentCount，chat-media的图片、语音仅调用canSend，而canSend只看关系不看条数，且媒体不增加sentCount。当前演示不符合所有消息合计额度，真实IM未验证。",
+      "remaining": "文字与表情检查sentCount，chat-media的图片、语音仅调用canSend，而canSend只看关系不看条数，且媒体不增加sentCount。当前演示不符合所有消息合计额度，真实IM未验证。",
+      "evidence": [
+        {
+          "path": "liveshow-proto/prototype/annotations/user.js",
+          "line": 996,
+          "quote": "| 消息 | 支持文本、图片和语音，按服务端发送时间正序；时间相同时按消息 ID 从小到大排序。 |",
+          "source_line": "          \"| 消息 | 支持文本、图片和语音，按服务端发送时间正序；时间相同时按消息 ID 从小到大排序。 |\",",
+          "page": "http://127.0.0.1:8765/index.html?read=direct-message#page=pages%2Fuser%2Fsocial%2Fdirect-message.html",
+          "view": "",
+          "key": "direct-message.html",
+          "end": "user",
+          "verification": "当前完整批注条目与关联页核对"
+        },
+        {
+          "path": "liveshow-proto/prototype/pages/user/social/direct-message.html",
+          "line": 229,
+          "quote": "function canSend()",
+          "source_line": "      function canSend() {",
+          "verification": "当前文件原文核对"
+        },
+        {
+          "path": "liveshow-proto/prototype/assets/chat-media.js",
+          "line": 81,
+          "quote": "canSendDirectMessage",
+          "source_line": "    if (!isGroup && window.Luma.canSendDirectMessage && !window.Luma.canSendDirectMessage()) return window.Luma.toast('当前关系下不能发送消息');",
+          "verification": "当前文件原文核对"
+        }
+      ],
+      "chains": [
+        "L21"
+      ],
+      "requirementsApproved": false,
+      "verification": "当前源文件核对；04另在消息中心观察到示例文案"
+    },
+    {
+      "id": "N20261016-03",
+      "namespace": "NEW",
+      "legacyId": null,
+      "title": "互动通知的被送礼范围未同步",
+      "type": "范围冲突",
+      "status": "新增：需求待确认",
+      "change": "新增",
+      "conclusion": "用户需求清单包含被送礼，通知规则和互动通知批注只列关注、申请及结果；先确认本期是否还需要赠礼互动通知，不直接断言缺功能。",
+      "remaining": "用户需求清单包含被送礼，通知规则和互动通知批注只列关注、申请及结果；先确认本期是否还需要赠礼互动通知，不直接断言缺功能。",
+      "evidence": [
+        {
+          "path": "liveshow-proto/context/01-用户主播App-项目需求清单.md",
+          "line": 128,
+          "quote": "被送礼",
+          "source_line": "\t- 系统消息、互动通知（被关注/被送礼）、关注主播开播提醒、平台公告。",
+          "verification": "当前文件原文核对"
+        },
+        {
+          "path": "liveshow-proto/prototype/annotations/user.js",
+          "line": 969,
+          "quote": "5. 数据范围：当前账号收到的关注、好友申请及本人发出申请的处理结果；不受设置页通知开关影响。",
+          "source_line": "          \"5. 数据范围：当前账号收到的关注、好友申请及本人发出申请的处理结果；不受设置页通知开关影响。\",",
+          "page": "http://127.0.0.1:8765/index.html?read=interaction-notifications#page=pages%2Fuser%2Fsocial%2Finteraction-notifications.html",
+          "view": "",
+          "key": "interaction-notifications.html",
+          "end": "user",
+          "verification": "当前完整批注条目与关联页核对"
+        }
+      ],
+      "chains": [
+        "L21",
+        "L11"
+      ],
+      "requirementsApproved": false,
+      "verification": "当前源文件核对；04另在消息中心观察到示例文案"
+    },
+    {
+      "id": "N20261016-04",
+      "namespace": "NEW",
+      "legacyId": null,
+      "title": "回复即好友的演示文案与申请流程不一致",
+      "type": "示例文案差异",
+      "status": "新增：静态差异",
+      "change": "新增",
+      "conclusion": "Mock会话“回复消息我们就是好友啦”与申请同意才建好友的当前规则不符；消息中心已实际观察到该文案。",
+      "remaining": "Mock会话“回复消息我们就是好友啦”与申请同意才建好友的当前规则不符；消息中心已实际观察到该文案。",
+      "evidence": [
+        {
+          "path": "liveshow-proto/prototype/assets/mock.js",
+          "line": 385,
+          "quote": "回复消息我们就是好友啦",
+          "source_line": "    { key: 'sari', name: 'Sari', avatar: 'S', preview: '谢谢你的礼物，回复消息我们就是好友啦', time: '2026-08-18 19:41', unread: 1, label: '直播间私信', messages: [",
+          "verification": "当前文件原文核对"
+        },
+        {
+          "path": "liveshow-proto/prototype/annotations/user.js",
+          "line": 926,
+          "quote": "1. 接受好友申请后双方进入好友列表；重复申请不生成新记录。",
+          "source_line": "          \"1. 接受好友申请后双方进入好友列表；重复申请不生成新记录。\",",
+          "page": "http://127.0.0.1:8765/index.html?read=friend-list#page=pages%2Fuser%2Fsocial%2Ffriend-list.html",
+          "view": "",
+          "key": "friend-list.html",
+          "end": "user",
+          "verification": "当前完整批注条目与关联页核对"
+        }
+      ],
+      "chains": [
+        "L21"
+      ],
+      "requirementsApproved": false,
+      "verification": "当前源文件核对；04另在消息中心观察到示例文案"
+    },
+    {
+      "id": "N20261016-05",
+      "namespace": "NEW",
+      "legacyId": null,
+      "title": "修改与重置密码成功后的去向不符",
+      "type": "静态实现差异",
+      "status": "新增：静态差异",
+      "change": "新增",
+      "conclusion": "当前批注规定修改或重置成功后原会话失效并返回登录页；两个页面成功分支均go(settings.html)，演示未按规则返回登录。设置密码成功回设置页本身不列问题。",
+      "remaining": "当前批注规定修改或重置成功后原会话失效并返回登录页；两个页面成功分支均go(settings.html)，演示未按规则返回登录。设置密码成功回设置页本身不列问题。",
+      "evidence": [
+        {
+          "path": "liveshow-proto/prototype/annotations/user.js",
+          "line": 2581,
+          "quote": "2. 修改成功后新密码立即生效，旧密码不可再用于登录；当前会话立即失效并返回登录页，新操作须重新登录。修改前已提交的请求继续处理，不要求重新提交。",
+          "source_line": "        \"2. 修改成功后新密码立即生效，旧密码不可再用于登录；当前会话立即失效并返回登录页，新操作须重新登录。修改前已提交的请求继续处理，不要求重新提交。\",",
+          "page": "http://127.0.0.1:8765/index.html?read=account-password-change#page=pages%2Fuser%2Fprofile%2Faccount-password-change.html",
+          "view": "",
+          "key": "account-password-change.html",
+          "end": "user",
+          "verification": "当前完整批注条目与关联页核对"
+        },
+        {
+          "path": "liveshow-proto/prototype/annotations/user.js",
+          "line": 2607,
+          "quote": "3. 重置成功后新密码立即生效，旧密码不可再用于登录；当前会话立即失效并返回登录页。重置前已提交的请求继续处理，之后的新操作须重新登录。",
+          "source_line": "        \"3. 重置成功后新密码立即生效，旧密码不可再用于登录；当前会话立即失效并返回登录页。重置前已提交的请求继续处理，之后的新操作须重新登录。\"",
+          "page": "http://127.0.0.1:8765/index.html?read=account-password-reset#page=pages%2Fuser%2Fprofile%2Faccount-password-reset.html",
+          "view": "",
+          "key": "account-password-reset.html",
+          "end": "user",
+          "verification": "当前完整批注条目与关联页核对"
+        },
+        {
+          "path": "liveshow-proto/prototype/pages/user/profile/account-password-change.html",
+          "line": 13,
+          "quote": "go('settings.html')",
+          "source_line": "      <header class=\"nav\"><button class=\"back\" type=\"button\" onclick=\"go('settings.html')\">‹</button>修改密码</header>",
+          "verification": "当前文件原文核对"
+        },
+        {
+          "path": "liveshow-proto/prototype/pages/user/profile/account-password-reset.html",
+          "line": 31,
+          "quote": "go('settings.html')",
+          "source_line": "      form.onsubmit=event=>{event.preventDefault();error.textContent='';if(password.value!==confirmPassword.value){error.textContent='两次输入的新密码不一致';return}Luma.toast('密码重置成功');setTimeout(()=>go('settings.html'),500)};",
+          "verification": "当前文件原文核对"
+        }
+      ],
+      "chains": [
+        "L02"
+      ],
+      "requirementsApproved": false,
+      "verification": "当前源文件核对；04另在消息中心观察到示例文案"
+    }
+  ],
+  "staticManifest": "19-页面静态复核.json"
+}

@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-14",
+  "scope": "用户指定的8类",
+  "stats": {
+    "groups": 8,
+    "singleOperations": 31,
+    "singleRows": 460,
+    "singleKnown": 146,
+    "concurrentScenarios": 120,
+    "concurrentRows": 2165,
+    "concurrentKnown": 16,
+    "evidence": 66
+  },
+  "allActionsWithinScope": true,
+  "allConcurrentActionsWithinScope": true,
+  "blankResultsHaveBlankEvidence": true,
+  "absoluteFileLinksChecked": 239,
+  "sourceHashesMatch": true,
+  "backendConcurrencyVerified": false,
+  "archive": "/Users/geekonup/Live_Read/流程梳理/历史快照/2026-10-14T09-22-03-074Z-八类范围收敛前"
+}

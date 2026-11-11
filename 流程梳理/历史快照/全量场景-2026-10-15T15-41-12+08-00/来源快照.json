@@ -1,0 +1,949 @@
+{
+  "generatedAt": "2026-10-15T15:35:59+08:00",
+  "sources": [
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/annotations/admin.js",
+      "sha256": "73b868b8119fb46e3525277b55fa6f494a7619fa1274cbfbd0edef4a8e0f2fa8"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/annotations/guild.js",
+      "sha256": "d72caaa2728e06743a609f11590c4372dcd826cb0ebb8b598d268b987856e911"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/annotations/user.js",
+      "sha256": "5e26e7c2f1b970bf7408eaf014a9fb3f9088565818ada8b937fdfce1a68a1ff6"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/context/01-用户主播App-项目需求清单.md",
+      "sha256": "74f5edf63be2049d9838b47f5e9052a4c342780d7eae22f05fa2aade9e637192"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/context/02-公会App-项目需求清单.md",
+      "sha256": "1aab4845379022bfae19f82de4adecf8a748584e363d24e9d0c80d89f538ce75"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/context/03-管理后台-项目需求清单.md",
+      "sha256": "308a307d458361e9ed935f86c94de2f59c983eefe7d42fa73d781353d0b38f1a"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/context/消息通知规则.md",
+      "sha256": "8b09d46d4fb53b819dbf01d0fd3f1c127adc9a5e47b678a02f5706311700de9b"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/context/社交关系规则补充.md",
+      "sha256": "cd0cece9234f2e71e6c1d4aadc5a1a7bf41734c6e1f954b28688682838840ac1"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/context/系统概要 .md",
+      "sha256": "08df18ca852b529d61511403691d8cb3b022bdcf09a531a2a57f701c0915c65b"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/accounts/admin-operation-account-detail.html",
+      "sha256": "db5d6b43eca8b8a2e3b98f461ee7b7a27651d36213fd4a52b00207fa865b582d"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/accounts/admin-operation-accounts.html",
+      "sha256": "4652600c770ecfb66c3d56406842139795d27af04891bf7af153058acf87c7d7"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/accounts/admin-operation-gift-records.html",
+      "sha256": "2dcc87dad97e7a8957411175c999c128f04f7251009385acdc0bbc88f7b8b4fc"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/accounts/admin-operation-guild-controls.html",
+      "sha256": "87d9c2f6e15329d1542e6f512cb0787f3a835a9f8d5315b5d51af4772a6b21bd"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/accounts/admin-operation-issue-records.html",
+      "sha256": "043bc69a943c338faec9f2f120f550fc56acb974f2e9c2232b72eb062ce318fa"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/analytics/admin-consumption-order-detail-report.html",
+      "sha256": "0c1c4690829c9bacdccbd2cc01f689460728508b852440e479b2c2bdec1da051"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/analytics/admin-daily-statistics.html",
+      "sha256": "4d5e19346d3aeb3d2a0f07eebc7395d44356c10587a8949f355c22f41c6e08d2"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/analytics/admin-data-overview.html",
+      "sha256": "62e86a14d2870b55d785577ef16a062194e4ca69b02d206ecec2f0936b1984f5"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/analytics/admin-host-live-record-report.html",
+      "sha256": "16b6dd33e19fc73e2ca6a7af43954d1adde8f6071352a2008f664a4d5ceb2299"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/analytics/admin-host-statistics.html",
+      "sha256": "51caaf7d64118e7150d252a51d0bf3efd58005a071a7491e487badeb16ccc929"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/analytics/admin-live-statistics.html",
+      "sha256": "c00a8d786ab97a772d7b6183e928010be1842a283af7b2fef29bc28d83f133a4"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/analytics/admin-monthly-gift-sales.html",
+      "sha256": "aca5e6416fce409995771b87694a9603f2346c6514c2e65648b79ef39402d081"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/analytics/admin-monthly-host-earnings.html",
+      "sha256": "6c97a6c304f45768f9771812961f3f8f5d8cd308dd06f91d1156cd8bfa2b3d30"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/analytics/admin-monthly-host-share.html",
+      "sha256": "e4af1c251c2369e0ab8cf3097d61df7543e5b6bd4592448840d15f45a3f631bc"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/analytics/admin-monthly-income-expense.html",
+      "sha256": "61cf6a67d3b4ff70a05c67cf60fd5b9abbd7cd6ce903fecdbed6d11682c504aa"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/analytics/admin-monthly-viewer-consumption.html",
+      "sha256": "4093ce1ef6cc540c36bacd63296f70c2d38b75d1d11e6e49dfff113a0db1a8fe"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/analytics/admin-recharge-order-detail-report.html",
+      "sha256": "f6a2c8244c25f9412e8179add285b996050baea502814edd9880aaa69f08f7fe"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/analytics/admin-recharge-statistics.html",
+      "sha256": "116e1a6cd9ea5b8a35cc0784616b1406756d9e5df3aea06985262c4a228005a5"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/analytics/admin-refund-order-detail-report.html",
+      "sha256": "8bdef6efd8536d2acd842afcd2b7899437414a56c9f443c3bdd86aa4f6fd1164"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/analytics/admin-report-center.html",
+      "sha256": "4af3f08f9e56ce18497f3a2b307ae7be24b011fd35c601882e6f45f33be7a318"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/analytics/admin-user-active-statistics.html",
+      "sha256": "71c9c07ee6b10e7cf0ddf8ae8fae34be90572a2687df5afa2ba0b8448157b4e9"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/analytics/admin-user-activity-statistics.html",
+      "sha256": "56c1974815b7fb6a475573fff69da98f0d55221acb6c64573e6164dedb977b72"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/content/admin-account-violation.html",
+      "sha256": "048c86a3a69cd96f5171b200cf94462fa781890ab9fd3b00249d453752e8db90"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/content/admin-content-audit-detail.html",
+      "sha256": "1d41e1a560faaee9890b966778307f7743a702cc49c713d0ccffdc9c22c4e700"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/content/admin-content-audit.html",
+      "sha256": "e5153a235481ec2cbd4336db681078eb8ad2e2d092176fad1365b891b3f54bb4"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/content/admin-report-detail.html",
+      "sha256": "45f1d2d92c0c8bb36cc1c0a28971b6cc5fa6bfbb132daff53a00335337d95711"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/content/admin-report-handling.html",
+      "sha256": "e30ea75b194a86cb444c8a20e11c7dce3c5006a0abe6aae07ebc5638b24e483d"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/content/admin-violation-type-detail.html",
+      "sha256": "6f553c218b0052de8ce001cd4725d775bafbfdce9ee6c656ab1c8e28894fc8df"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/content/admin-violation-types.html",
+      "sha256": "0cf733253fa06b985740b37c48eef422a878555810af742459c49da5b746db6b"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/dashboard/admin-dashboard.html",
+      "sha256": "8512d4da91e26aefd5031193b592ff1b4beec29bd44cdc393b8cc567c568ab79"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/finance/admin-guild-account-balance.html",
+      "sha256": "8618db074253c91e9af7e79a71b4efae107413e2a3a590cc27531a8b9a761ca7"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/finance/admin-guild-balance-change-record.html",
+      "sha256": "8491cc6f243686089cc5146d271c6ac7e16a5925dda7bf6612b73d2f1a581849"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/finance/admin-guild-settlement-record-detail.html",
+      "sha256": "547eedf06057f851069fea05a15f80e43678cbab5c423e093d780717a2a4a7ae"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/finance/admin-guild-settlement-record.html",
+      "sha256": "6fce46ddc99b9be4938827092bf19d086109134140932b921e69cd941f2d6e0c"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/finance/admin-host-account-balance.html",
+      "sha256": "b5ac70e82dacfc5dda965a29a149eda88d2225f3c33b5db5af8c679f2143fcf3"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/finance/admin-host-balance-change-record.html",
+      "sha256": "d3ac9dcd4c2634bf0153bb77b8b967f67c57b1677066489d9befa5094f81ad9b"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/finance/admin-settlement-record-detail.html",
+      "sha256": "ca9149ca14cb3beb473026ad1785bac9c7bec0ff9d2dd912d8584aa8ee1ba8ad"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/finance/admin-settlement-record.html",
+      "sha256": "8180d81dcdf812bbb016e281f757595e59d38a7328e90f7041b436850c130e46"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/gifts/admin-custom-gift.html",
+      "sha256": "0ab525c665cd909af8a7918dd2cf1534b6dd5cd8e7384dec1369b77e76d67150"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/gifts/admin-gift-detail.html",
+      "sha256": "d1d7bd9b5b7bac0cbbf161df6b25122f551ca53c892b7847a305e0fbc0fff0ab"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/gifts/admin-gift-list.html",
+      "sha256": "0acd4bb6ea827e4f67a26f3a2336d8d21ada3025524d85c3198b31812084af51"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/gifts/admin-gift-send-count-rule-detail.html",
+      "sha256": "0864919b54b57743c644a94611536615a75fab7ffbc25c398fe6fda25ccd5f84"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/gifts/admin-gift-send-count-rules.html",
+      "sha256": "60e83a3f8a3f933900f2c04399522c457df97870d13fc2557bc7c2032d5a3664"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/gifts/admin-lucky-gift-config.html",
+      "sha256": "6a70e719de015a826ede1dad42dedcc531161fa8f5c2e0a8085dfaca1c3fabf7"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/gifts/admin-lucky-gift-detail.html",
+      "sha256": "d11a7aaf86dbafce481a7df1f721d52128a0983c57f4b15270d9acf9ce81011d"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/gifts/admin-prop-detail.html",
+      "sha256": "94bcefcc33675b66a81f625035bd400af7f3b16be30ebe39ea9e8b17f2fe2c29"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/gifts/admin-prop-list.html",
+      "sha256": "8e9efe02cc2362c9a6d9d07df93cf4223995df460e70d20beb9b397d87aee50e"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/guild/admin-guild-detail.html",
+      "sha256": "586fbb3dd26ee33912b69810d06fda81e00fb1d32abb1be0762c9de900152de9"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/guild/admin-guild-list.html",
+      "sha256": "3fc9fe96bdb6b1c6b8c1df96a2c1c49f8ab58cef9c29b512f51914d108d4daab"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/host/admin-host-detail.html",
+      "sha256": "93304acf4ee9aec904f8fd7d15f1a46be251d8566bb9c0b319eb2a41908c5bbe"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/host/admin-host-list.html",
+      "sha256": "8cebb0a94578052bd6899581bc534f8c773fb3bbe6f5ce8dcb11ab5bfd1ddc9c"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/host/admin-host-review-detail.html",
+      "sha256": "d0e46e3c1fa116d1938fa50bfd86d61447a4cb2ff136f7ec67cb1389b6bc9953"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/host/admin-host-review.html",
+      "sha256": "4eb241775a9322814f65e15226a148638612739efa2fd5479ae0b652138b0655"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/host/admin-live-detail.html",
+      "sha256": "d9187f9194ec2d123d13683454368efbcd55784ea18d070d3c5126b7b1be6ec5"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/host/admin-live-management.html",
+      "sha256": "c7652bf695baa428ee4dea7ea3eb2dedc70d5f535135c01eb17cb3627981ad33"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/operations/admin-feature-switch.html",
+      "sha256": "1ac81236e015df5f662e27d1ebd38f8c45b104d125645babe5cf86ef6de5a622"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/operations/admin-guild-recommendation-detail.html",
+      "sha256": "7d857e2f40d5b0505b50c8211d5bd2318840bef58e46e4cf0d19aae4813d4fad"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/operations/admin-guild-recommendation.html",
+      "sha256": "cc7e0c53019fb259ace3d4e0fe760f405a30850dec93b053c937f83d0eefeb49"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/operations/admin-level-config.html",
+      "sha256": "42daaf16ea366757431fd147875b351cc258d7463c21ab8a0bf82fb51541817e"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/operations/admin-live-type.html",
+      "sha256": "392029b81e9dce80b68cce66fc948cacc8ca69eef147ae5825a6abbe1967a7b1"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/operations/admin-placement-config.html",
+      "sha256": "b980103001553b500e8f27ac6121af797392f3b9c2bd190cc397bbe4ebff8c78"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/operations/admin-placement-detail.html",
+      "sha256": "0c8a6120fca658572f405e2858f719b85a38084a48331478084c26eb916f5ebe"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/operations/admin-push-detail.html",
+      "sha256": "b24de76cefebf7a37e49a2007232e450b278d572e6901074ccbb4148556a5774"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/operations/admin-push-management.html",
+      "sha256": "688c1e5f65dff13d27801bf93218ea6254cad55b0234aaa5e3939c7ad56ff80a"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/operations/admin-recharge-package-detail.html",
+      "sha256": "1a8945fa579a6aaf2b85cbc3070d42f88afad8f24c8725069713cc3568c22334"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/operations/admin-recharge-package.html",
+      "sha256": "d23f53f9a24f92cc2549e6058d2eaeec85bb1b077e6099cb8cecded5334b64f0"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/operations/admin-sensitive-words-detail.html",
+      "sha256": "bb1a298b50cd80d54ce544886af2b91666411a5bc9e72c546d7aa3031b0e76ed"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/operations/admin-sensitive-words.html",
+      "sha256": "e86b0df7b25735c32148155e09e72f2fe4d32b452300c0365de4cb254b08b427"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/operations/admin-task-config.html",
+      "sha256": "f6fba27c0af41982e7daab69aa74e9dd0a06b3dc0c39eaca08bc9a23e08a2649"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/operations/admin-task-detail.html",
+      "sha256": "6bed577a718b7b20879b1097a8d7f960cd77860ff7aeffd80a8379ff0996e414"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/operations/admin-ticket-price-level-detail.html",
+      "sha256": "d084cab3970cf3512564f6ab79bfcb65745b396e40212f9c2230d53398791ef4"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/operations/admin-ticket-price-level.html",
+      "sha256": "90530695c657c973a9a5cd414940f0cc92c4fddee3156c5f40e86108abe99efb"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/orders/admin-consumption-order-detail.html",
+      "sha256": "f579d2e519a17e2e4fc7999c89c4ca6be4031af1e3b00eb9d865f92eccfa6777"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/orders/admin-consumption-order.html",
+      "sha256": "d0bb48fd4a839d7fb2bfa15ecaa45eb68e7c6bfeaf4763c305b613553da81111"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/orders/admin-recharge-order-detail.html",
+      "sha256": "bd9384da9852485ce84246fbafa38f33b83e98f076aecc747d5405c43230a3ea"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/orders/admin-recharge-order.html",
+      "sha256": "c1fb60a42420ff59e42fb3eb53bda99de81b70ebec9962879c27c91617924000"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/orders/admin-refund-order.html",
+      "sha256": "19e07a973f874576cf9ddf36e41cfc5b7349fe0e4c478242eef56ac528791a56"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/system/admin-system-account-detail.html",
+      "sha256": "71370e5470dbb4cb2d59612e72d3764e2abff138e1de18596b50971cff9b3ae3"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/system/admin-system-account.html",
+      "sha256": "81d9a7bda7f761c4d516b301728d2bc43e7738bbea2aea3c8feab3989ddf76f7"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/system/admin-system-audit-detail.html",
+      "sha256": "bf45b187ec4fecbaace41dec3b6f4cb3b9b5ba60d6690f675729544029805141"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/system/admin-system-audit.html",
+      "sha256": "e550600b0dee8afb9851aa31740d86b8ad78fc474b9ce584fa81f34fa55e56cd"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/system/admin-system-parameter-detail.html",
+      "sha256": "ccf8e5c376c995bc4c8cf79361fe1f4cb62e52d93f6a38781f7391e70d01815f"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/system/admin-system-parameter.html",
+      "sha256": "48a78f6bbc81d3826d03457dd5bc68c4c920d4a0173da803aa2d5e69fa7e3568"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/system/admin-system-permission.html",
+      "sha256": "47b4bd4804463ae7ac68ecd0571754ce095ecda27247b94c4b32709bcceee9b6"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/system/admin-system-role-detail.html",
+      "sha256": "1a98aea19d0b543951b68496356c48d64e4a87c20772ed1f309b54bd11e25964"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/system/admin-system-role.html",
+      "sha256": "8c8f09fccbe0cdd1b96532804964afce43e126b24ddd9b3259fbbdb299cd910a"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/user/admin-user-detail.html",
+      "sha256": "aa09c6822b1cb8ed0f50d6b3740bc72a64bdc8eb966ac604701c74572b15185c"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/user/admin-user-list.html",
+      "sha256": "03341caba148da97a603df9b4b2bf971b56192685d634542fee935c7af71b33c"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/guild/approval/guild-join-review-detail.html",
+      "sha256": "b58c9dbaa2edffb5c74b295b65dc326854524d924569bae13003ce3f1e6b5aa3"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/guild/approval/guild-join-review.html",
+      "sha256": "4f62bd107ae961c96e3dc6b100f9219fcbbaa68dbf5622ac128e6fda125f8efa"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/guild/approval/guild-leave-review-detail.html",
+      "sha256": "6283282edecd5b4fe44516463070d5e31446c30404677a17118e0aaaecb10c93"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/guild/approval/guild-leave-review.html",
+      "sha256": "c625e00e179062e556fe9ee53c6b8ddd5884581b9361a2127d22e53d5edd1bb9"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/guild/auth/guild-login.html",
+      "sha256": "87cfafc8525b71a9bf720a06b6bfdda1eeca4836c0514eb7a2947059bf2880cb"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/guild/auth/guild-switch.html",
+      "sha256": "f551e39216ccfbb84923f3024b5b8078cacf0ad4db6ee9f6fda63ed20aea8cbd"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/guild/data/guild-all-violations.html",
+      "sha256": "6a65bf869575a6ac237268c8a1c1b931315916af1918579122655df07a71eac4"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/guild/data/guild-host-data.html",
+      "sha256": "30cb3398b79d301b91d20159a22c7e52a4c2f63afe7dafac21ac32a27ed3683d"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/guild/data/guild-host-summary.html",
+      "sha256": "4cd8205aa9e5049f29434038a2fc0c249cb8ee16482e9b92fa069847721fd856"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/guild/data/guild-income-day-detail.html",
+      "sha256": "70773f7454a66242836a8eeeecc5a6baac6c96f92bba3793ad71cc69c82c00c6"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/guild/data/guild-income.html",
+      "sha256": "89c058de24602f1cccc16a8a441ebf5dccc7946f54c116c2aec2a2b9233db62a"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/guild/data/guild-live-gift-detail.html",
+      "sha256": "c6dabdd4483079e4c36b391580480d0cd0c2a8a7b32d9cb824c1ab55b2466aee"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/guild/data/guild-violation-host-select.html",
+      "sha256": "eeea5150290ee144617abd091a88c9a6562085bd1400bcb8b1b490f473838ec2"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/guild/home/guild-home.html",
+      "sha256": "f8ad02407c44881641fa57564f2a9c57a363c46536fefa1d5782082437c22791"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/guild/home/guild-notification-detail.html",
+      "sha256": "d5b0d7fdb6d6cf8ab2110062070f7d1885d729cb12c373158b06fb4b9fe340e1"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/guild/home/guild-notifications.html",
+      "sha256": "b0931cfdb0fe02fd273e87de53d161af70fc44fb1d58d23135b5ce45a4fc27dd"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/guild/management/guild-password.html",
+      "sha256": "2da9cfd319a1a5a7c0852b25a8f75deea15a8b35fa2da53a43efff0315ab89b3"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/guild/management/guild-profile.html",
+      "sha256": "a3bb84075246927dfc5ed0bfd2b6f7679ecd84b938d21d313553a703966162dd"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/guild/management/guild-settings.html",
+      "sha256": "a2c53b0d2b348024489f5d0b0e44325e06bcd2effa753804c73ff88c5c0e465a"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/guild/operations/guild-host-select.html",
+      "sha256": "244d3b1050058e59480d071abf469200b96e97a5d0003a7a927e2d8d58b366b5"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/guild/operations/guild-message-compose.html",
+      "sha256": "f5e4e473bae1e1e298f25aa2d678835e61d9d581667bb44b4d01f0eef06b7d15"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/guild/operations/guild-message-detail.html",
+      "sha256": "1e86844a3927e1678b69be0ab41d6e5346ee9605a38d45c27d5d7b194d77d227"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/guild/operations/guild-messages.html",
+      "sha256": "edb125cd087d23a483b350020b507430c0c291799c1bc7c533e1f0293198a0e2"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/guild/operations/guild-operation-account-compose.html",
+      "sha256": "96f45c81f936b1c1419ceb0bdba8276dff9409bce7ee5dc381a3407d25081d9d"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/guild/operations/guild-operation-account-detail.html",
+      "sha256": "41481a59dd033dd88801e41b37507e7c0fb271ef6adc1c9e0a999a311532277d"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/guild/operations/guild-operation-account-select.html",
+      "sha256": "805669bbf906a0853520be1312c9bb47b1bf0e36a3b7d4c97ede53255d1114ef"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/guild/operations/guild-operation-accounts.html",
+      "sha256": "c311bae5e9a1aa48546baf47b7321ac4241a351e6202137162856fd1c6c3b7b3"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/guild/operations/guild-operation-gift-records.html",
+      "sha256": "bd60d716b24a1ccb13a698e8deaadaeb9cdade44c2a6e1937436febb215734c2"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/guild/people/guild-host-detail.html",
+      "sha256": "f3e2ef6508587d577908c725c9b7480f361a123a5926e7a9eabe42e3cb000bb3"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/guild/people/guild-host-list.html",
+      "sha256": "9d21261a357af843e84870e9b3c68ca958425bf9a1d19acd2a3dd4f4456bc15d"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/guild/people/guild-member-list.html",
+      "sha256": "756f0ab52c7c0a6663afbd7de4e9e0ec1ef6d153ddfa65cfba65110c2ec1e2b3"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/auth/auth-country-select.html",
+      "sha256": "133cfb9ef405b6629857cf20a4bf8c7c3121181602e80212d963d5c94a43c5f1"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/auth/auth-email-login.html",
+      "sha256": "79815ba6324384bd578e479164460fd565114e9d6cd72ce0bb1c9a5cfc997acd"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/auth/auth-login-register.html",
+      "sha256": "88fdf21bac687e498edb3bc6601bbed6ad647ce585248ba2b1b73e68af350aa6"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/auth/auth-phone-login.html",
+      "sha256": "8732173a70563e30cd5a3f4778d5349ee60c0f4f3479eedc6573fbb89a052080"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/auth/auth-profile-completion.html",
+      "sha256": "bb27182d2c001ff5d447a92e1b71dc3a5188e1b2307fdba4063c819c8d5043a5"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/fan-club/fan-contribution-ranking.html",
+      "sha256": "95b23f594fe07778b890c1f0e71cbac3339c086bdf331a12a2ccc61e44bf8b88"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/fan-club/my-fan-clubs.html",
+      "sha256": "9d56d1ffd7e958dd6de204f3ebf155f0b35c32c006a65a45cde84a9c1d35bbbf"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/guild/guild-application-form.html",
+      "sha256": "184d85333f7520bcd8c2c11c05b9cd61848a849c4ba85cdf322491f808df07e1"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/guild/guild-application-records.html",
+      "sha256": "c70b3a5df4e6992e86a13a8f8a6ac9c907af5c2d61a62a33e410d016017e51f7"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/guild/guild-detail.html",
+      "sha256": "5210fbf7904883211ca935742dfef3a2923c98aedda4d4ce6b52459e122191b3"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/guild/guild-leave-application.html",
+      "sha256": "9b4befd8956db0bdf2073b52bbf3364ffd7a5d4dd1a3f6fc77b1a0b2ab848a72"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/guild/guild-management.html",
+      "sha256": "b589abda905ce7ab95e940ad34f93df3b730ebfef56c2818e40eca2d4fb841bb"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/home/all-tasks.html",
+      "sha256": "de73888d3e8dc4041472b039ce5bc2b12fcf058b191435509228464e9306ee63"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/home/contribution-ranking.html",
+      "sha256": "c4c6ef06eb19edf1ead65e53cd589813361b32368844bcecec97d9993edf5e54"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/home/host-ranking.html",
+      "sha256": "17955e98a113bd7b9d930f9a364e5ad7518cf37f3341328222257d151b0c17e4"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/home/invite-friends.html",
+      "sha256": "e75b57a26d6d780c2157181130f129518c69df54a5d332d3ee4e8a2524053463"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/home/live-plaza.html",
+      "sha256": "f2606a5fac8da6aaf7228764ba026a1b3bd61ae7c5947c9c797b3a801382629f"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/home/search-results.html",
+      "sha256": "18305edf518728fb57b22b557425f46eb337febb56f94012949fe5fc0d02adca"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/home/search.html",
+      "sha256": "7d6e902174bb5b66d28a6e664ea4e087f8d688b3024a4f393a03a5d4e180b0fe"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/home/welfare-center.html",
+      "sha256": "e696de49fcb939ddba7d902b6d8457101d765c1699e5f1c5fbc1af11af4dffc8"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/host/fan-club-settings.html",
+      "sha256": "4c22c3b5ee96565ff84b2076e86d10faaa61b3af39e94ef71e58f676d8e6983b"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/host/fan-club.html",
+      "sha256": "148883e11f6186517f23daac547824777e23052b854fc2b2677ec81228120d88"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/host/fan-list.html",
+      "sha256": "6a9629fd4d93cd552fea90e62b1eaa6df4480831a2c4eda15fcaed89f3392839"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/host/host-center-pending.html",
+      "sha256": "a8c7baf61c41bc19192aa93363c5fcac2cc4af77a60bab87cff0925ec148fb68"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/host/host-center.html",
+      "sha256": "7ab7044c2037f963a1f17826ca8d6f9c5fa82cf957adffff6aa3f43a5830a4ab"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/host/host-guild-notifications.html",
+      "sha256": "4f5267014bc936a10743b170b96b745511e5340ae36a59640a6a360f3dbe9673"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/host/live-data.html",
+      "sha256": "bac131d874dafeb513bab5f71472b7381b965a6726acf9973811802f02624923"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/host/live-records.html",
+      "sha256": "39d42689b5bd41bc44cebbc24f1df00fd6a69e612090ab84a999c7943826745e"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/host/live-session-detail.html",
+      "sha256": "3233875b5f3ed098f9b6093383239cda377a60f8292a31fba3481285f9ce1ff5"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/host/moderator-management.html",
+      "sha256": "63673ceda0e1240b858cfed9820ff0e088072c392ab0b312024a4b516079446b"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/host/moderator-search-results.html",
+      "sha256": "939c0445fb213cb8205cbf93164482cac752d41194f01f2c5e0085d4905467a4"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/host/moderator-search.html",
+      "sha256": "7d70b7760898a913e678ddab41b826a4fd26ff1ddb21181e51a4010c452ff777"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/host/start-live-settings.html",
+      "sha256": "813495b38530e436a57c8bc19f20b2849acb72e1acde035affd322bdf67feeac"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/live/live-end-host.html",
+      "sha256": "b67988c3c48e64855d9b1c8c86211b16be57b49eb318d206e770a0c0bd43bcf9"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/live/live-end-viewer.html",
+      "sha256": "b96e1ff6a67f03429a07d6119c220cd5519ee252beac503fdc30190890333e21"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/live/live-room-cohost-active.html",
+      "sha256": "dfae8c8fa54e95ef82b1416d3f66ab51fc9aba113c4913660c4fff3337c6e41b"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/live/live-room-host-password.html",
+      "sha256": "d1d1f2beb05a1619e2cc7cf281011030b54e109246071a6b079afd88e837330b"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/live/live-room-host.html",
+      "sha256": "9cd99396d4761f140301fa89034b080fe22fa28c89c984104a330f37fb08351e"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/live/live-room-report.html",
+      "sha256": "acd6e155380f447ed1f555075f5cbffe39cb8bc9447d99dce51c8fe9ac7b5c20"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/live/live-room-user-report.html",
+      "sha256": "ce14a608aba100f51e3e63d90a469442d3d847ff7d6ddc70d7864929ab32740e"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/live/live-room.html",
+      "sha256": "287b499c64986246680e200e3ca9e4c645c8591194639318dddea728dbc6076d"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/profile/account-password-change.html",
+      "sha256": "8a4b60396a09f6a52877c10ed7807e314b5181be50d5f34361d3ed8a9573f2d0"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/profile/account-password-reset.html",
+      "sha256": "3f81a2fdec7f9c285bf5b720c167d0773b019cd9c984715fc5b1dd60b12bff30"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/profile/account-password-set.html",
+      "sha256": "964eaf25b275f7b0cf861f408824ebdb55244661a705873490b98dbbbe20c7f7"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/profile/blacklist-management.html",
+      "sha256": "93a47a1b9d85c9d5b90cce4c664efcaadc5bb415e1bb3dc46f2d1559315f312b"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/profile/customer-service.html",
+      "sha256": "f152367f900424dc6fa743ad6916e000915357f57f1df5a1d07dfd668562e3e0"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/profile/my-decoration.html",
+      "sha256": "9817220126fd60cb3f4621703a42f3b15c99e5cc7dfe50de341020b7084b39da"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/profile/my-following.html",
+      "sha256": "2a59217d890a830f2a3375d6de62ce99e20c0aa09b4c4143fe6f952894832602"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/profile/my-outfits.html",
+      "sha256": "09b0241053afdad64a5fa508297b3f1e0a045522b71940b3aaf10556d491207c"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/profile/profile-edit.html",
+      "sha256": "691c5fe76c1a6c4dd071b5c34486c3cfdfaf5be8277ccc5af11e6f0978cf5291"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/profile/profile.html",
+      "sha256": "1fa6ebd96c39d3cac9e4f55b82e2d724564505ad1f2bcb6ea0a7b44777023bc0"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/profile/settings.html",
+      "sha256": "324709118cd67f29b927b3f14a4b89cf5799a84c9ee9c99c10a2e6f9a110ffde"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/social/chat-settings.html",
+      "sha256": "05374befeb2abdb78390e8b0ce6be690940338a19043c74566b2afe1629d974c"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/social/direct-message.html",
+      "sha256": "ef5b8b2cdd9e37a9a5d06246834c8e7df2b4f37a38439557ff73b8e25363872b"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/social/fan-group-chat.html",
+      "sha256": "b4d0cc14407f9aaa521985e5f482bb383848af7285ee96fe9cf5d085b8c2e8a5"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/social/follower-list.html",
+      "sha256": "2ebbb0da377a873db8c1dde9391b65cc63e641bb171795c8b464ba13dec4f169"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/social/friend-list.html",
+      "sha256": "e9f86fdd69d33957f91f85663c4050ca06accb532e7429693173f2a8bd7c7a1b"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/social/group-manage-member.html",
+      "sha256": "04eb4978666c24135884c0ff654782e46b2c04e213e1a6de83ccb9f2f1c75e11"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/social/group-manage-owner.html",
+      "sha256": "c9749dbe090a2e763d47be03f9e1e2aecf024313381d683a6a3787ae3425ab4b"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/social/host-gift-gallery.html",
+      "sha256": "d85f3fc423dedb11de241b527f962c65f86053535c0269565c1bbe5a6a41c546"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/social/host-home.html",
+      "sha256": "b29c19e9ef0c2624cc259ffdf5db16d1a03cef835f743e43a258266ae4534c74"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/social/interaction-notifications.html",
+      "sha256": "1cbdd65d73a2e15b37a1e899d1efb89ee24d0a42193c9566fc64a297ad8a994a"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/social/live-notifications.html",
+      "sha256": "bb6642ccbd07467479da3f403747d44ce6874109d54b1a59bb0732ead6d6c82c"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/social/message-center.html",
+      "sha256": "a5b5dca80c24b1a7b52d1b77f453f40ecf19cadc446ca2840e70f43a10e8c93f"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/social/system-notifications.html",
+      "sha256": "aa61d712aae249413ef9a4311d3e2a9be7186505f0d5a2e5d4a93eddb789d58b"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/social/user-home.html",
+      "sha256": "b94cf0d0fe0974d30289c5325609d508ed52b5762d014ac65b80d23a45963895"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/wallet/balance-detail.html",
+      "sha256": "3818b7226267b4e13ef78efc45354f03944bfada3d67581fccad7ad4acf4d27f"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/wallet/order-expense-detail.html",
+      "sha256": "e4aba234e5d5bebba5b4f7abc95b260407b79f24dbc25d6a4364676f54cb493a"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/wallet/order-income-detail.html",
+      "sha256": "11075af85e18048966768507074e3c2f47e45f5919672242af7564e3dd9c25c7"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/wallet/prop-order-detail.html",
+      "sha256": "4611d00e47826c58c0dc83e8d7377327a251f53e70f69ccbb53d88631e99e4e9"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/wallet/recharge.html",
+      "sha256": "bb6bae40f0200b007c4f8684db6085f84110175c483b1e3ae649d6bcbde4ca4a"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/wallet/reward-detail.html",
+      "sha256": "73684535e9fa63959b41997ca62fdad8f67685e8688a0d99297eeedc2e7b1ddc"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/wallet/ticket-order-detail.html",
+      "sha256": "b4754dd49e295f4c853d02ef6522707a4be2672a8794df2a071ab14602dc8928"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/assets/account-security.css",
+      "sha256": "244b7a5e225acdf96f43c559a741e2fc18c9c89210e6c657553299bd8ad1b5e8"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/assets/admin-account-balance-page.js",
+      "sha256": "da601beb2810a63ace68eb9e74675934d597a8a4c52241cd130e58e7d9fb3440"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/assets/admin-date-range-picker.js",
+      "sha256": "0f01f6770c28ee56149944c7a8d0466d9b52ecc7bd461bc499aee623d864af52"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/assets/admin-finance-reconciliation-page.js",
+      "sha256": "753e67cee19c46d1286e0bc5995df437ae510ad03f522da31f95f76985c53197"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/assets/admin-mock.js",
+      "sha256": "9846e273f211f22d67acb040cd0d6fe2584b280ff616a79069a4fdcdfc44b623"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/assets/admin-reporting.js",
+      "sha256": "86a72432f6bb67d4d1b40b141c6eec20984e4fe21874a19011f3864c4c8f2ff7"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/assets/admin-settlement-upload-page.js",
+      "sha256": "4a6c67a1e77a1f0a9e6fb75d9afe1b36b5f0b6ecca8f5059320d163990fff4eb"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/assets/admin-statistics-page.js",
+      "sha256": "3876e9ef8f7aad2725623bc06d97e685408cbb7a65ca09f432caac35dcd5cc1b"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/assets/admin-tokens.js",
+      "sha256": "350d1e2c7c0686ef1719613ef173e31ab5b9c2f2666324a0c9daa87cf2cf65ce"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/assets/admin.css",
+      "sha256": "6a6f6f6bf1fcaff2ee6d44baea859ac36552aa0661538f03ae9cdf9e3f9843e6"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/assets/annotation-review-changes.js",
+      "sha256": "f4a6ffb2dd5e9ebafa8c7b18bac261b396f8d87644884c891eb70ae631078261"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/assets/annotations.js",
+      "sha256": "529910181c215963d2ddd53ca4aef1c7f62f004854a2ff36b69a57035825ed09"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/assets/chat-media.js",
+      "sha256": "1a878b8d0ae9552b2e4b27ed1de879fbe4beead3362b73db8e477606b27ab5aa"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/assets/common.css",
+      "sha256": "edcabb6582b4714b1f04a5b74dcfc911ecaf0ca4001e5ad8a002de5818d5df10"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/assets/common.js",
+      "sha256": "7be5692af5e9de207f201fab7876a0de05976ef9653ff8d217b16e48ccf5a546"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/assets/diamond.svg",
+      "sha256": "b45ceb511c616e77d7a57d3f2d427702fcf43ffff35e524df9a3c1c194d9b77e"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/assets/guild-core-data.css",
+      "sha256": "91a6e7d1a566a85054ab32d438cc1188976ef3c6bd8af98e41b46b8cf3aeadbd"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/assets/guild-data-model.js",
+      "sha256": "0b2ad8cb4bb8a6e0a115a5bdb4348c3628781b56e1c72975fbcca7564337de25"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/assets/guild-date-range.js",
+      "sha256": "7ee3acd664b137055faa75313a34d041028d1945b8c117f37820eb0f7302eb36"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/assets/guild-live-night.svg",
+      "sha256": "057f19558ac591229cb0dab1fbdb97b8158d1966ecc0d81eb5a8361c9dbdf750"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/assets/guild-live-stage.svg",
+      "sha256": "c41487e9c551ae8fd9f966271e571ee7e3280fc0434569ca2d7fe8d9fec6f0bf"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/assets/guild-live-studio.svg",
+      "sha256": "92d9395aa241e98fefad3f2b8b14a995191a9a7b886925bc5b72adfa9f9a16d1"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/assets/guild-record-overviews.js",
+      "sha256": "51d848e473cab754bd0d683d026e8f7a4d60e715a7aa76f01b665a7f6196f1e3"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/assets/guild.css",
+      "sha256": "f8fafa1c376c15b898f7200e1fab7f8a99e0a2c73b1eada9ae2e9cd1d1d539a4"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/assets/live-muted-users.js",
+      "sha256": "de5e72d0bbad4c38a1f796165515c0b9667d0e2a09abe3088784af08e315190f"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/assets/live-room-cover.svg",
+      "sha256": "8ade172e1c50636bcbb247b309ec3b851a710881a1c38ab32c71ca1f5bb52984"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/assets/mock.js",
+      "sha256": "869bd38954371c846492f8695490171b246766345dad7067b451310614af0165"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/assets/operation-accounts.js",
+      "sha256": "c0754152c8b8165098789386c502148912611721d3fa810cf6db305020e5aa92"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/assets/start-live-config.js",
+      "sha256": "c9648538539c3e50a44caf48dd500985163e6e76e80c3c06001b57c76bf55a23"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/assets/tailwind.js",
+      "sha256": "5c5de4bbb668f6d6fe2179373687434e043ba8d0e6877ee004d7c14b712618f6"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/assets/tokens.js",
+      "sha256": "ea674526cee1c918f9be061b4968e2b71f09bbd2470bf8852c12e0ac160635de"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/prototype/index.html",
+      "sha256": "e46c97ba8a00a7afcba85d6b1adc1819662a6394018dfd418055f0ad73e3c615"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/AGENTS.md",
+      "sha256": "f71e285abb6bf4ac4d0d08fc4df7bdbeeddb393fd16f6607dd2bb4719d74a43c"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/AGENTS.md",
+      "sha256": "886c0b2afc998709ea3cfdf58ccdd482a9daaf5bf56131d39e8c611efc079c5b"
+    },
+    {
+      "path": "/Users/geekonup/Live_Read/liveshow-proto/项目说明.md",
+      "sha256": "2adea23d941cb50d3e003fa2b4614ea57cbe579d61ed1f01a96c485443b3d32c"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "date": "2026-10-16",
+  "scope": "用户最新明确的8类操作",
+  "stats": {
+    "groups": 8,
+    "singleOperations": 31,
+    "singleRows": 476,
+    "singleKnown": 165,
+    "concurrentScenarios": 120,
+    "concurrentRows": 2165,
+    "concurrentKnown": 16,
+    "evidence": 93,
+    "conditionBranches": 14,
+    "socialRuleEntries": 24
+  },
+  "allActionsWithinScope": true,
+  "allConcurrentActionsWithinScope": true,
+  "blankResultsHaveBlankEvidence": true,
+  "oldScenarioAndRowIdsPreserved": true,
+  "sourceHashesMatch": true,
+  "evidenceQuotesAndLinesChecked": 93,
+  "socialRuleCoverageChecked": 24,
+  "backendConcurrencyVerified": false,
+  "browserVerified": false,
+  "archive": "/Users/geekonup/Live_Read/流程梳理/历史快照/2026-10-16T16-00-08-全量更新前"
+}

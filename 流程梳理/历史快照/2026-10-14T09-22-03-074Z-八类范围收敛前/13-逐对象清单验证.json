@@ -1,0 +1,28 @@
+{
+  "date": "2026-10-14",
+  "checks": {
+    "allFileLinksExist": 594,
+    "exactEvidenceMatches": 159,
+    "allResultRowsHaveEvidence": true,
+    "allBlankRowsHaveNoEvidence": true,
+    "requestedConcurrentCaseBlank": "R449",
+    "explicitDeleteSendRule": "X001"
+  },
+  "stats": {
+    "singleOperations": 111,
+    "automatic": 8,
+    "docOnly": 11,
+    "singleRows": 1591,
+    "singleKnown": 364,
+    "singleBlank": 1227,
+    "raceScenarios": 531,
+    "raceRows": 8265,
+    "raceKnown": 43,
+    "raceBlank": 8222,
+    "evidence": 159,
+    "groups": 13,
+    "sourceDate": "2026-10-14"
+  },
+  "browserInteractionsVerified": false,
+  "backendConcurrencyVerified": false
+}

@@ -1,0 +1,32 @@
+{
+  "date": "2026-10-16",
+  "service": "http://127.0.0.1:8765",
+  "serverRootMatches": true,
+  "method": "Chrome浏览器实际点击，当前新建阅读标签，不修改原型文件",
+  "observations": [
+    {
+      "step": 1,
+      "page": "message-center.html",
+      "result": "页面及对应批注显示，公会通知入口位于会话列表，消息未读总数9；Sari预览含回复即好友文案"
+    },
+    {
+      "step": 2,
+      "action": "点击公会通知",
+      "page": "host-guild-notifications.html?from=message-center&notice=guild-schedule&seen=guild",
+      "result": "本周直播排班展开，按钮为收起，另3条为展开全文"
+    },
+    {
+      "step": 3,
+      "action": "点击返回",
+      "page": "message-center.html?seen=guild",
+      "result": "消息未读总数8，公会通知未读1消失，其他会话仍在"
+    }
+  ],
+  "notVerified": [
+    "未逐页验证192页浏览器渲染",
+    "未逐状态操作148个注册视图或94处状态注册",
+    "未运行同一对象跨三端链路",
+    "支付、IM、直播SDK、推送、文件解析、数据库和线上行为",
+    "历史浏览器故障本轮没有重现为全局阻塞；公会通知页批注展开未单独验证"
+  ]
+}

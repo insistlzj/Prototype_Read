@@ -1,0 +1,17 @@
+{
+  "date": "2026-10-14",
+  "sourceHashes": 237,
+  "absoluteFileLinks": 765,
+  "viewerUrlMappings": 254,
+  "uniqueViewerPages": 190,
+  "httpFilesMatched": 196,
+  "operationEvidence": 43,
+  "unknownResultsBlank": 18,
+  "browserInteractionVerified": false,
+  "backendVerified": false,
+  "finalOperationEvidenceVerified": true,
+  "physicalPagesWithoutCurrentAnnotations": [
+    "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/system/admin-system-permission.html",
+    "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/profile/my-outfits.html"
+  ]
+}

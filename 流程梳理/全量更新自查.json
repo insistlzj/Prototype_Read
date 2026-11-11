@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-16",
+  "status": "通过：来源、结构、引用、编号及交付范围校验；不代表语义批准或运行验收",
+  "sourceFiles": 236,
+  "protectedPrototypeFiles": 268,
+  "prototypeUnchanged": true,
+  "currentMarkdownFiles": 37,
+  "currentJsonFiles": 23,
+  "sourceQuotesChecked": 3786,
+  "localLinksChecked": 11595,
+  "viewerTargetsChecked": 4233,
+  "missingStaticHtmlTargets": 0,
+  "httpPagesChecked": 192,
+  "allLegacyScenarioAndRowIdsPreserved": true,
+  "legacyObjectRows": 2641,
+  "stableIds": {
+    "scenes": {
+      "previous": 1228,
+      "current": 1228,
+      "retired": 0,
+      "added": 0,
+      "preserved": 1228
+    },
+    "fields": {
+      "previous": 1070,
+      "current": 1070,
+      "retired": 0,
+      "added": 0,
+      "preserved": 1070
+    },
+    "documentCandidates": {
+      "previous": 486,
+      "current": 486,
+      "retired": 2,
+      "added": 2,
+      "preserved": 484
+    },
+    "evidence": {
+      "previous": 3320,
+      "current": 3320,
+      "retired": 2,
+      "added": 2,
+      "preserved": 3318
+    }
+  },
+  "annotationEntries": 254,
+  "physicalPages": 192,
+  "registeredViews": 148,
+  "chains": 25,
+  "chainBranches": 228,
+  "chainDimensions": 12,
+  "contextFiles": 6,
+  "contextClauses": 486,
+  "socialRules": 24,
+  "issueRecords": 165,
+  "issueDispositions": {
+    "关闭": 23,
+    "保留": 106,
+    "变化": 30,
+    "分类修正": 1,
+    "新增": 5
+  },
+  "remainingIssueRecords": 141,
+  "deduplicatedDefectCount": null,
+  "requirementsApproved": false,
+  "semanticAuditPassed": false,
+  "browserAllPagesVerified": false,
+  "backendVerified": false,
+  "noWorkbookGenerated": true,
+  "archive": "/Users/geekonup/Live_Read/流程梳理/历史快照/2026-10-16T16-00-08-全量更新前",
+  "limitations": [
+    "所有问题数是可重叠记录数，不是独立缺陷数",
+    "浏览器仅检查消息中心和公会通知局部导航／已读",
+    "未逐状态执行148视图及94状态注册",
+    "无真实支付、IM、推送、SDK、数据库或线上验证"
+  ]
+}

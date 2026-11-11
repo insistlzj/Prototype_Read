@@ -1,0 +1,96 @@
+{
+  "date": "2026-10-12",
+  "scope": "15 confirmed pages, not exhaustive state coverage",
+  "pages": [
+    {
+      "id": "A01",
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/gifts/admin-lucky-gift-detail.html",
+      "url": "http://127.0.0.1:8765/index.html?read=admin-lucky-gift-detail#page=pages%2Fadmin%2Fgifts%2Fadmin-lucky-gift-detail.html",
+      "sha256": "d11a7aaf86dbafce481a7df1f721d52128a0983c57f4b15270d9acf9ce81011d"
+    },
+    {
+      "id": "A02",
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/orders/admin-consumption-order-detail.html",
+      "url": "http://127.0.0.1:8765/index.html?read=admin-consumption-order-detail#page=pages%2Fadmin%2Forders%2Fadmin-consumption-order-detail.html%3Fid%3DCS20260805002716",
+      "sha256": "f579d2e519a17e2e4fc7999c89c4ca6be4031af1e3b00eb9d865f92eccfa6777"
+    },
+    {
+      "id": "A03",
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/admin/accounts/admin-operation-gift-records.html",
+      "url": "http://127.0.0.1:8765/index.html?read=admin-operation-gift-records#page=pages%2Fadmin%2Faccounts%2Fadmin-operation-gift-records.html",
+      "sha256": "2dcc87dad97e7a8957411175c999c128f04f7251009385acdc0bbc88f7b8b4fc"
+    },
+    {
+      "id": "A04",
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/guild/operations/guild-operation-gift-records.html",
+      "url": "http://127.0.0.1:8765/index.html?read=guild-operation-gift-records#page=pages%2Fguild%2Foperations%2Fguild-operation-gift-records.html",
+      "sha256": "bd60d716b24a1ccb13a698e8deaadaeb9cdade44c2a6e1937436febb215734c2"
+    },
+    {
+      "id": "A05",
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/profile/account-password-set.html",
+      "url": "http://127.0.0.1:8765/index.html?read=account-password-set#page=pages%2Fuser%2Fprofile%2Faccount-password-set.html",
+      "sha256": "964eaf25b275f7b0cf861f408824ebdb55244661a705873490b98dbbbe20c7f7"
+    },
+    {
+      "id": "A06",
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/profile/account-password-change.html",
+      "url": "http://127.0.0.1:8765/index.html?read=account-password-change#page=pages%2Fuser%2Fprofile%2Faccount-password-change.html",
+      "sha256": "8a4b60396a09f6a52877c10ed7807e314b5181be50d5f34361d3ed8a9573f2d0"
+    },
+    {
+      "id": "A07",
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/profile/account-password-reset.html",
+      "url": "http://127.0.0.1:8765/index.html?read=account-password-reset#page=pages%2Fuser%2Fprofile%2Faccount-password-reset.html",
+      "sha256": "3f81a2fdec7f9c285bf5b720c167d0773b019cd9c984715fc5b1dd60b12bff30"
+    },
+    {
+      "id": "A08",
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/host/fan-club-settings.html",
+      "url": "http://127.0.0.1:8765/index.html?read=fan-club-settings#page=pages%2Fuser%2Fhost%2Ffan-club-settings.html",
+      "sha256": "4c22c3b5ee96565ff84b2076e86d10faaa61b3af39e94ef71e58f676d8e6983b"
+    },
+    {
+      "id": "A09",
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/user/profile/profile-edit.html",
+      "url": "http://127.0.0.1:8765/index.html?read=profile-edit#page=pages%2Fuser%2Fprofile%2Fprofile-edit.html",
+      "sha256": "691c5fe76c1a6c4dd071b5c34486c3cfdfaf5be8277ccc5af11e6f0978cf5291"
+    },
+    {
+      "id": "A10",
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/guild/data/guild-host-data.html",
+      "url": "http://127.0.0.1:8765/index.html?read=guild-host-data#page=pages%2Fguild%2Fdata%2Fguild-host-data.html",
+      "sha256": "30cb3398b79d301b91d20159a22c7e52a4c2f63afe7dafac21ac32a27ed3683d"
+    },
+    {
+      "id": "A11",
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/guild/data/guild-host-summary.html",
+      "url": "http://127.0.0.1:8765/index.html?read=guild-host-summary#page=pages%2Fguild%2Fdata%2Fguild-host-summary.html",
+      "sha256": "4cd8205aa9e5049f29434038a2fc0c249cb8ee16482e9b92fa069847721fd856"
+    },
+    {
+      "id": "A12",
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/guild/people/guild-host-list.html",
+      "url": "http://127.0.0.1:8765/index.html?read=guild-host-list#page=pages%2Fguild%2Fpeople%2Fguild-host-list.html",
+      "sha256": "9d21261a357af843e84870e9b3c68ca958425bf9a1d19acd2a3dd4f4456bc15d"
+    },
+    {
+      "id": "A13",
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/guild/data/guild-income.html",
+      "url": "http://127.0.0.1:8765/index.html?read=guild-income#page=pages%2Fguild%2Fdata%2Fguild-income.html",
+      "sha256": "89c058de24602f1cccc16a8a441ebf5dccc7946f54c116c2aec2a2b9233db62a"
+    },
+    {
+      "id": "A14",
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/guild/approval/guild-leave-review-detail.html",
+      "url": "http://127.0.0.1:8765/index.html?read=guild-leave-review-detail#page=pages%2Fguild%2Fapproval%2Fguild-leave-review-detail.html",
+      "sha256": "6283282edecd5b4fe44516463070d5e31446c30404677a17118e0aaaecb10c93"
+    },
+    {
+      "id": "A15",
+      "page": "/Users/geekonup/Live_Read/liveshow-proto/prototype/pages/guild/people/guild-host-detail.html",
+      "url": "http://127.0.0.1:8765/index.html?read=guild-host-detail#page=pages%2Fguild%2Fpeople%2Fguild-host-detail.html",
+      "sha256": "f3e2ef6508587d577908c725c9b7480f361a123a5926e7a9eabe42e3cb000bb3"
+    }
+  ]
+}

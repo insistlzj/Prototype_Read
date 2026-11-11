@@ -1,0 +1,18 @@
+{
+  "date": "2026-10-15",
+  "checks": {
+    "five_business_sources_plus_navigation_hash": "输出后复核一致",
+    "evidence_quotes_and_line_numbers": "全部匹配当前原文",
+    "issue_ids": "28个唯一编号，分支引用无悬空",
+    "branch_ids": "228个唯一编号",
+    "annotation_mapping": "254个均有链路归属",
+    "local_file_links": "目标存在",
+    "viewer_links": "186个唯一查看器入口静态映射校验",
+    "http": "查看器首页与186个页面共187个HTTP请求均返回200"
+  },
+  "not_verified": [
+    "浏览器实际渲染及批注显示",
+    "真实后端、支付渠道、设备及网络故障",
+    "服务端并发、幂等和数据一致性"
+  ]
+}

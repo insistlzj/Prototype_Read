@@ -1,0 +1,42 @@
+{
+  "generatedAt": "2026-10-16T16:12:53+08:00",
+  "stats": {
+    "independentPages": 192,
+    "annotationEntries": 254,
+    "registeredViews": 148,
+    "chains": 25,
+    "mainPaths": 25,
+    "chainBranches": 228,
+    "pageScenarios": 1228,
+    "viewChecks": 148,
+    "fieldChecks": 1070,
+    "documentCandidates": 486,
+    "sourceClauses": 3320,
+    "pageStateRegistrations": 94,
+    "demoNotes": 9,
+    "legacyScenarios": 151,
+    "pendingIssueCandidates": 44,
+    "businessScenarioRecords": 1481
+  },
+  "sourceHashesMatch": true,
+  "currentVsPriorAnnotationClausesEqual": true,
+  "everyAnnotationEntryMapped": true,
+  "everyPhysicalPageListed": true,
+  "registeredViewCountMatches": true,
+  "allSixContextFilesMapped": true,
+  "sourceQuotesAndLinesChecked": 3320,
+  "allScenarioIdsUnique": true,
+  "legacy151IdsPreserved": true,
+  "allScenariosUnexecuted": true,
+  "browserVerified": false,
+  "backendVerified": false,
+  "semanticAuditPassed": false,
+  "requirementsApproved": false,
+  "limitations": [
+    "主路径、链路分支与页面场景有重叠，不是唯一独立业务数",
+    "复合原文尚非单条件测试用例",
+    "两份无批注页面业务待确认",
+    "文档范围候选不自动作为本期需求",
+    "未穷尽任意数量操作组合"
+  ]
+}
